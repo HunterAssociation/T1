@@ -27,4 +27,4 @@ async def Start(client, message):
    )
 
 print("START SUKSES")
-bot.start
+bot.run
