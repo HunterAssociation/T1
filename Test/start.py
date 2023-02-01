@@ -12,7 +12,7 @@ async def start(client, message):
     reply_markup=InlineKeyboardMarkup(
       InlineKeyboardButton(
         text="TEST DOANG",
-        web_app=WebAppInfo(url="https://google.com/")
+        url="https://google.com"
       )
     )
   )
