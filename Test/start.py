@@ -1,7 +1,8 @@
-from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
+from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 from aiogram.types.web_app_info import WebAppInfo
 
 from pyrogram import Client, filters
+from pyrogram.types import Message
 
 
 @Client.on_message(filters.command("start") & filters.private)
