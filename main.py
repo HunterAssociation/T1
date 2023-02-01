@@ -1,7 +1,6 @@
 from aiogram import Bot, Dispatcher, executor, types
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from aiogram.types.web_app_info import WebAppInfo
-from buttons import *
 from aiogram.dispatcher.filters import Text
 
 
@@ -24,4 +23,4 @@ async def google(message: types.Message):
     
 
 if __name__ == '__main__':
-executor.start_polling(dp, skip_updates=True)
+    executor.start_polling(dp, skip_updates=True)
