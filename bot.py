@@ -21,8 +21,7 @@ async def start(Client, m:Message):
         reply_markup=InlineKeyboardMarkup(
             InlineKeyboardButton(
                 text="HALO TEST",
-                web_app=WebAppInfo(
-                    url="https://google.com/"
+                url="https://google.com/"
                 )
             )
         )
