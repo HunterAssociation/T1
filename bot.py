@@ -1,6 +1,7 @@
 import pyrogram
 from pyrogram import Client, filters, idle
-from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
+from pyrogram import Message
+from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 API_ID = "20786693"
 API_HASH = "6eebbb7d9f9825a2d200c034bfbb7102"
@@ -21,7 +22,7 @@ async def start(Client, m:Message):
         reply_markup=InlineKeyboardMarkup(
             InlineKeyboardButton(
                 text="HALO TEST",
-                web_app=pyrogram.types.WebAppInfo(
+                web_app=WebAppInfo(
                     url="https://google.com/"
                 )
             )
