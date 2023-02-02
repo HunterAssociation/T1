@@ -8,6 +8,8 @@ BOT_TOKEN = "5999247031:AAG4i_PpP2x_Pcm6ZwDQCPYpDE6XJ7ugrYo"
 
 app = Client(
     "Test",
+    API_ID,
+    API_HASH,
     bot_token=BOT_TOKEN,
 )
 
