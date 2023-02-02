@@ -13,7 +13,7 @@ app = Dispatcher(bot)
 @app.message_handler(commands="start")
 async def start(m:Message):
     T1 = await bot.send_message(
-      message.chat.id,
+      m.chat.id,
       text="WELCOME",
       parse_mode='html',
       reply_markup=InlineKeyboardMarkup().add(
