@@ -7,6 +7,7 @@ API_HASH = "6eebbb7d9f9825a2d200c034bfbb7102"
 BOT_TOKEN = "5999247031:AAG4i_PpP2x_Pcm6ZwDQCPYpDE6XJ7ugrYo"
 
 app = Client(
+    "Test",
     bot_token=BOT_TOKEN,
 )
 
