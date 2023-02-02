@@ -1,19 +1,18 @@
 from aiogram import Bot, Dispatcher, executor, types
-from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
+from aiogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 from aiogram.types.web_app_info import WebAppInfo
-from aiogram.dispatcher.filters import Text
 
 
 
-bot = Bot(token="5999247031:AAG4i_PpP2x_Pcm6ZwDQCPYpDE6XJ7ugrYo")
-dp = Dispatcher(bot)
+TOKEN = Bot(token="5999247031:AAG4i_PpP2x_Pcm6ZwDQCPYpDE6XJ7ugrYo")
+bot = Dispatcher(TOKEN)
 
-@dp.message_handler(lambda message: message.text == "Google")
-async def google(message: types.Message):
+@bot.message_handler("start")
+async def start(m:Message):
     await message.reply(
-      "🔍 Siz Googleni tanladingiz!",
+      "WELCOME",
       parse_mode='html',
-      reply_markup=InlineKeyboardMarkup().add(
+      reply_markup=InlineKeyboardMarkup(
         InlineKeyboardButton(
           text="Google",
           web_app=WebAppInfo(url="https://google.com/")
@@ -23,4 +22,4 @@ async def google(message: types.Message):
     
 
 if __name__ == '__main__':
-    executor.start_polling(dp, skip_updates=True)
+    executor.start_polling(bot)
