@@ -27,10 +27,8 @@ async def start(Client, m:Message):
     )
 
 
-if __name__ == "__main__":
-    try:
-        app.start()
-        print("Botnya Sukses Mas Bay :*")
-        idle()
-        app.stop()
-    print("Botnya Berhenti Mas Bay :(")
+app.start()
+print("Botnya Sukses Mas Bay :*")
+idle()
+app.stop()
+print("Botnya Berhenti Mas Bay :(")
