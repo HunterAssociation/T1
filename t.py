@@ -20,7 +20,7 @@ async def start(bot:Client, m:Message):
       m.chat.id,
       text="WELCOME",
       parse_mode='html',
-      reply_markup=InlineKeyboardMarkup().add(
+      reply_markup=InlineKeyboardMarkup(
         InlineKeyboardButton(
           text="Google",
           web_app=WebAppInfo(url="https://google.com/")
