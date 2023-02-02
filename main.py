@@ -20,8 +20,8 @@ async def start(m:Message):
       )
     )    
     
-
+    
+print("Bot Started")
 if __name__ == '__main__':
     executor.start_polling(bot)
 
-print("Bot Started")
