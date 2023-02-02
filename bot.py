@@ -18,11 +18,9 @@ app = Client(
 async def start(Client, m:Message):
     await m.reply(
         text="Halo",
-        reply_markup=InlineKeyboardMarkup(
-            InlineKeyboardButton(
+        reply_markup=InlineKeyboardButton(
                 text="HALO TEST",
                 url="https://google.com/"
-            )
         )
     )
 
