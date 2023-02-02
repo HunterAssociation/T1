@@ -22,7 +22,6 @@ async def start(Client, m:Message):
             InlineKeyboardButton(
                 text="HALO TEST",
                 url="https://google.com/"
-                )
             )
         )
     )
