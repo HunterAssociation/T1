@@ -23,7 +23,7 @@ async def start(bot:Client, m:Message):
       reply_markup=InlineKeyboardMarkup(
         InlineKeyboardButton(
           text="Google",
-          web_app=WebAppInfo(url="https://google.com/")
+          url="https://google.com"
         )
       )
     )    
