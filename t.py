@@ -19,13 +19,6 @@ async def start(bot:Client, m:Message):
     T1 = await bot.send_message(
       m.chat.id,
       text="WELCOME",
-      parse_mode='html',
-      reply_markup=InlineKeyboardMarkup(
-        InlineKeyboardButton(
-          text="Google",
-          url="https://google.com"
-        )
-      )
     )    
     await asyncio.sleep(10)
     await m.delete()
