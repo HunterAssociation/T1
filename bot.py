@@ -30,8 +30,7 @@ async def start(Client, m:Message):
 if __name__ == "__main__":
     try:
         app.start()
-    uname = app.get_me().username
-    print(f"@{uname} Botnya Sukses Mas Bay :*")
-    idle()
-    app.stop()
+        print("Botnya Sukses Mas Bay :*")
+        idle()
+        app.stop()
     print("Botnya Berhenti Mas Bay :(")
