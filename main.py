@@ -12,7 +12,8 @@ bot = Dispatcher(TOKEN)
 
 @bot.message_handler(commands="start")
 async def start(m:Message):
-    await m.reply(
+    await m.delete()
+    T1 = await m.reply(
       "WELCOME",
       parse_mode='html',
       reply_markup=InlineKeyboardMarkup().add(
@@ -23,7 +24,7 @@ async def start(m:Message):
       )
     )    
     await asyncio.sleep(10)
-    await m.delete()
+    await T1.delete()
     
 print("Bot Started")
 if __name__ == '__main__':
