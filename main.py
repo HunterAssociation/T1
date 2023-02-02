@@ -12,7 +12,7 @@ bot = Dispatcher(TOKEN)
 
 @bot.message_handler(commands="start")
 async def start(m:Message):
-    T1 = await m.reply(
+    T1 = await m.send_text(
       "WELCOME",
       parse_mode='html',
       reply_markup=InlineKeyboardMarkup().add(
