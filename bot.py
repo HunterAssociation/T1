@@ -12,7 +12,7 @@ app = Client(
     api_id=API_ID,
     api_hash=API_HASH,
     bot_token=BOT_TOKEN,
-    session_name=SESSION
+    session_string=SESSION
 )
 
 
