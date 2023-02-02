@@ -2,9 +2,9 @@ from pyrogram import Client, filters
 from aiogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton, WebAppInfo
 import asyncio
 
-API_ID = 20786693
-API_HASH = 6eebbb7d9f9825a2d200c034bfbb7102
-TOKEN = 5999247031:AAG4i_PpP2x_Pcm6ZwDQCPYpDE6XJ7ugrYo
+API_ID = "20786693"
+API_HASH = "6eebbb7d9f9825a2d200c034bfbb7102"
+TOKEN = "5999247031:AAG4i_PpP2x_Pcm6ZwDQCPYpDE6XJ7ugrYo"
 
 
 app = Client(
