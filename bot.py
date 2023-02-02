@@ -1,7 +1,7 @@
 import pyrogram
 from pyrogram import Client, filters, idle
-from pyrogram import Message
-from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
+from pyrogram.types import Message
+from telegram import InlineKeyboardMarkup, InlineKeyboardButton, WebAppInfo
 
 API_ID = "20786693"
 API_HASH = "6eebbb7d9f9825a2d200c034bfbb7102"
