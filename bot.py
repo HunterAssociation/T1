@@ -29,5 +29,5 @@ async def start(Client, m:Message):
     )
 
 
-
+print("Bot Started")
 app.start()
