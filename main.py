@@ -12,7 +12,7 @@ async def start(m:Message):
     await m.reply(
       "WELCOME",
       parse_mode='html',
-      reply_markup=InlineKeyboardMarkup(
+      reply_markup=InlineKeyboardMarkup().add(
         InlineKeyboardButton(
           text="Google",
           web_app=WebAppInfo(url="https://google.com/")
@@ -23,3 +23,5 @@ async def start(m:Message):
 
 if __name__ == '__main__':
     executor.start_polling(bot)
+
+print("Bot Started")
