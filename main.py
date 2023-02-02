@@ -3,6 +3,9 @@ from aiogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 from aiogram.types.web_app_info import WebAppInfo
 
 
+import asyncio
+
+
 
 TOKEN = Bot(token="5999247031:AAG4i_PpP2x_Pcm6ZwDQCPYpDE6XJ7ugrYo")
 bot = Dispatcher(TOKEN)
@@ -19,7 +22,8 @@ async def start(m:Message):
         )
       )
     )    
-    
+    await asyncio.sleep(10)
+    await m.delete()
     
 print("Bot Started")
 if __name__ == '__main__':
