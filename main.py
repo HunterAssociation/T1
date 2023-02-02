@@ -12,8 +12,9 @@ bot = Dispatcher(TOKEN)
 
 @bot.message_handler(commands="start")
 async def start(m:Message):
-    T1 = await m.send_text(
-      "WELCOME",
+    T1 = await bot.send_message(
+      message.chat.id,
+      text="WELCOME",
       parse_mode='html',
       reply_markup=InlineKeyboardMarkup().add(
         InlineKeyboardButton(
