@@ -19,10 +19,13 @@ async def start(bot:Client, m:Message):
     T1 = await bot.send_message(
       m.chat.id,
       text="WELCOME",
-      reply_markup=InlineKeyboardButton(
-        "TEST",
-        url="google.com"
-      )
+      reply_markup=InlineKeyboardMarkup(
+           	[[
+         		   InlineKeyboardButton(text="1", url="https://t.me/+ekvM-W6GgzZiM2Zl"),
+         		   InlineKeyboardButton(text="2", url="https://t.me/+soK_mSdgYW4zN2U9"),
+         		   InlineKeyboardButton(text="3", url="https://t.me/+8HWPubewN9VlNjc9")
+      		  ]]
+	    )
     )    
     await asyncio.sleep(10)
     await m.delete()
