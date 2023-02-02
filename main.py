@@ -7,10 +7,10 @@ import asyncio
 
 
 
-TOKEN = Bot(token="5999247031:AAG4i_PpP2x_Pcm6ZwDQCPYpDE6XJ7ugrYo")
-bot = Dispatcher(TOKEN)
+bot = Bot(token="5999247031:AAG4i_PpP2x_Pcm6ZwDQCPYpDE6XJ7ugrYo")
+app = Dispatcher(bot)
 
-@bot.message_handler(commands="start")
+@app.message_handler(commands="start")
 async def start(m:Message):
     T1 = await bot.send_message(
       message.chat.id,
@@ -29,5 +29,5 @@ async def start(m:Message):
     
 print("Bot Started")
 if __name__ == '__main__':
-    executor.start_polling(bot)
+    executor.start_polling(app)
 
