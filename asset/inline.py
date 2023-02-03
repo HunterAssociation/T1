@@ -11,6 +11,6 @@ K_START = ReplyKeyboardMarkup(resize_keyboard=True).add(
 
 I_START = InlineKeyboardMarkup().add(
     InlineKeyboardButton("ᴄʜᴀɴɴᴇʟ ꜱᴜᴘᴘᴏʀᴛ", url="https://t.me/NekopoiSupport/")).add(
-    InlineKeyboardButton("ʀᴇᴘᴏʀᴛ", url="https://t.me/NekopoiSupport/"),
+    InlineKeyboardButton("ʀᴇᴘᴏʀᴛ", url="https://t.me/NekopoiSupport/47"),
     InlineKeyboardButton("ᴅᴏɴᴀᴛᴇ", web_app=WebAppInfo(url="https://telegra.ph/DONATE-ME-02-03"))
 )
