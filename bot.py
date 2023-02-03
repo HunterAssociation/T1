@@ -28,13 +28,14 @@ async def start(m:Message):
     START2 = await bot.send_photo(
       m.chat.id,
       photo="https://telegra.ph/file/ef7261e2a4bec533ec771.jpg",
-      caption=f"HALO <a href='tg://user?id={user_id}'>{user_name}</a>",
+      caption=f"**Hai <a href='tg://user?id={user_id}'>{user_name}</a>/nSelamat datang di NekoPoiBot. \n\nFitur Bot:** \n➥ No Iklan.\n➥ Akses Sangat Mudah.\n➥ Bebas Streaming & Download.\n\n\n✥ **Total Users ⋙** Users",
       parse_mode='html',
       reply_markup=inline.I_START
     )    
     await asyncio.sleep(300)
     await m.delete()
-    await START.delete()
+    await START1.delete()
+    await START2.delete()
 
 
     
