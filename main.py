@@ -20,7 +20,7 @@ async def start(m:Message):
     
     START = await bot.send_message(
       m.chat.id,
-      text=message.M_START,
+      text=f"HALO {mention}",
       parse_mode='html',
       reply_markup=inline.ISTART_1
     )    
