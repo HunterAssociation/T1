@@ -19,7 +19,7 @@ app = Dispatcher(bot)
 async def start(m:Message):
     START = await bot.send_message(
       m.chat.id,
-      text=MSTART_1,
+      text=MSTART_1.format(m.from_user.mention),
       parse_mode='html',
       reply_markup=ISTART_1
     )    
