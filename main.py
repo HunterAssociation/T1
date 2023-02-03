@@ -22,7 +22,7 @@ async def start(m:Message):
       m.chat.id,
       text=f"HALO {mention}",
       parse_mode='html',
-      reply_markup=inline.ISTART_1
+      reply_markup=inline.I_START
     )    
     await asyncio.sleep(300)
     await m.delete()
