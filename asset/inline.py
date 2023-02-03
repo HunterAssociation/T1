@@ -6,12 +6,12 @@ I_START = InlineKeyboardMarkup().add(
    [[
       InlineKeyboardButton(
          text="ᴄʜᴀɴɴᴇʟ ꜱᴜᴘᴘᴏʀᴛ",
-         url="https://t.me/NekopoiSupport"
+         web_app=WebAppInfo(url="https://t.me/NekopoiSupport")
       )
    ],[
       InlineKeyboardButton(
          text="ʀᴇᴘᴏʀᴛ",
-         url="https://t.me/NekopoiSupport",
+         web_app=WebAppInfo(url="https://t.me/NekopoiSupport")
       ),
       InlineKeyboardButton(
          text="ᴅᴏɴᴀᴛᴇ",
