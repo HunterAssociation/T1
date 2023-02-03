@@ -7,6 +7,9 @@ from aiogram.types import
      InlineKeyboardMarkup,
      InlineKeyboardButton,
 
+from asset.inline.start import ISTART_1
+from asset.message.start import MSTART_1
+
 from config import BOT_TOKEN
 
 bot = Bot(token=BOT_TOKEN)
@@ -19,14 +22,9 @@ app = Dispatcher(bot)
 async def start(m:Message):
     START = await bot.send_message(
       m.chat.id,
-      text="WELCOME",
+      text=MSTART_1,
       parse_mode='html',
-      reply_markup=InlineKeyboardMarkup().add(
-        InlineKeyboardButton(
-          text="Google",
-          web_app=WebAppInfo(url="https://google.com/")
-        )
-      )
+      reply_markup=ISTART_1
     )    
     await asyncio.sleep(300)
     await m.delete()
