@@ -1,3 +1,3 @@
-from aiogram.types import Message
+from main import mention
 
 M_S_1 = f"HALO {mention}"
