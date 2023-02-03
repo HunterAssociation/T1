@@ -16,11 +16,12 @@ app = Dispatcher(bot)
 
 @app.message_handler(commands="start")
 async def start(m:Message):
-    mention = m.from_user.mention
+    user_id = message.from_user.id
+    user_name = message.from_user.first_name
     
     START = await bot.send_message(
       m.chat.id,
-      text=f"HALO {mention}",
+      text=f"HALO [{user_name}](tg://user?id={user_id})",
       parse_mode='html',
       reply_markup=inline.I_START
     )    
