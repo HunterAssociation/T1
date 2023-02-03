@@ -16,6 +16,8 @@ app = Dispatcher(bot)
 
 @app.message_handler(commands="start")
 async def start(m:Message):
+    mention = m.from_user.mention
+    
     START = await bot.send_message(
       m.chat.id,
       text=message.M_START,
