@@ -16,8 +16,8 @@ app = Dispatcher(bot)
 
 @app.message_handler(commands="start")
 async def start(m:Message):
-    user_id = message.from_user.id
-    user_name = message.from_user.first_name
+    user_id = m.from_user.id
+    user_name = m.from_user.first_name
     
     START = await bot.send_message(
       m.chat.id,
