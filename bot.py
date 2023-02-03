@@ -18,10 +18,17 @@ app = Dispatcher(bot)
 async def start(m:Message):
     user_id = m.from_user.id
     user_name = m.from_user.first_name
-    
-    START = await bot.send_message(
+
+    START1 = await bot.send_message(
       m.chat.id,
-      text=f"HALO <a href='tg://user?id={user_id}'>{user_name}</a>",
+      text="➜ 𝙱𝚎𝚛𝚊𝚗𝚍𝚊",
+      reply_markup=inline.K_START
+    )
+    
+    START2 = await bot.send_photo(
+      m.chat.id,
+      photo="https://telegra.ph/file/ef7261e2a4bec533ec771.jpg",
+      caption=f"HALO <a href='tg://user?id={user_id}'>{user_name}</a>",
       parse_mode='html',
       reply_markup=inline.I_START
     )    
