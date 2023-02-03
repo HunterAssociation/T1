@@ -1,3 +1,5 @@
-MSTART_1 = """
-   HALO
+from aiogram.types import Message
+
+MSTART_1 = f"""
+   HALO {message.from_user.mention}
 """
