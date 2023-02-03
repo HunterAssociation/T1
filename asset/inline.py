@@ -8,6 +8,10 @@ K_START = ReplyKeyboardMarkup(resize_keyboard=True).add(
     KeyboardButton("𝟮𝗗/𝟯𝗗")
 )
 
+K_END = ReplyKeyboardMarkup(resize_keyboard=True).add(
+    KeyboardButton("𝗞𝗘𝗠𝗕𝗔𝗟𝗜"),
+    KeyboardButton("𝗕𝗘𝗥𝗔𝗡𝗗𝗔")
+)
 
 I_START = InlineKeyboardMarkup().add(
     InlineKeyboardButton("ᴄʜᴀɴɴᴇʟ ꜱᴜᴘᴘᴏʀᴛ", url="https://t.me/NekopoiSupport/")).add(
