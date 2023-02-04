@@ -65,9 +65,9 @@ pyro = Client(
 )
     
 if __name__ == '__main__':
-    print("AIO Started")
-    executor.start_polling(aio)
     print("PYRO Started")
     pyro.start()
+    print("AIO Started")
+    executor.start_polling(aio)
     idle()
     pyro.stop()
