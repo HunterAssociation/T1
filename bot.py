@@ -7,7 +7,7 @@ from aiogram import Bot, Dispatcher, executor, types
 from aiogram.types.web_app_info import WebAppInfo
 from aiogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton, ReplyKeyboardMarkup, KeyboardButton
 
-from config.env import BOT_TOKEN
+from config import BOT_TOKEN
 from asset import message, inline
 
 bot = Bot(token=BOT_TOKEN)
@@ -58,8 +58,8 @@ async def start(m:Message):
 #           R U N   C L I E N T           #
 ###########################################
 
-if os.path.exists("config.env"):
-    load_dotenv("config.env")
+if os.path.exists("config.py"):
+    load_dotenv("config.py")
 
 API_ID = int(os.getenv("API_ID"))
 API_HASH = os.getenv("API_HASH")
