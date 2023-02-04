@@ -48,12 +48,12 @@ async def start(m:Message):
 ###########################################
 #               H E N T A I               #
 ###########################################
-@aio.message_handler(lambda message : message.text == '𝗛𝗘𝗡𝗧𝗔𝗜',state='*')
+@aio.message_handler(lambda message : message.text == '𝗛𝗘𝗡𝗧𝗔𝗜' or message.text == '𝗞𝗘𝗠𝗕𝗔𝗟𝗜',state='*')
 async def hentai(m:Message):
     
     START1 = await bot.send_message(
        m.chat.id,
-       text="➜ 𝙱𝚎𝚛𝚊𝚗𝚍𝚊",
+       text="<b>𝌆 Hentai List :</b>",
        reply_markup=ReplyKeyboardMarkup(resize_keyboard=True).add(
           KeyboardButton("❖"), KeyboardButton("ᴀ"), KeyboardButton("ʙ")).add(
           KeyboardButton("ᴄ"), KeyboardButton("ᴅ"), KeyboardButton("ᴇ")).add(
