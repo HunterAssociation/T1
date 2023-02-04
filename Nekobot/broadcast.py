@@ -4,7 +4,7 @@ from pyrogram import Client, filters
 from pyrogram.errors import FloodWait
 from Nekobot.Database.sql import query_msg
 
-from config import AUTH_USERS
+from bot import AUTH_USERS
 
 
 # ------------------------ Broadcast ----------------------------- #
