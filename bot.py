@@ -22,7 +22,7 @@ aio = Dispatcher(bot)
 #      S T A R T  &&  B E R A N D A       #
 ###########################################
 @aio.message_handler(lambda message : message.text == '/start' or message.text == '𝗕𝗘𝗥𝗔𝗡𝗗𝗔',state='*')
-async def start(bot, m:Message):
+async def start(m:Message):
     user_id = m.from_user.id
     user_name = m.from_user.first_name
 
