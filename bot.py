@@ -56,6 +56,11 @@ async def start(m:Message):
 
 
 
+
+###########################################
+#           R U N   C L I E N T           #
+###########################################
+
 pyro = Client(
     "Nekobot",
     api_id=API_ID,
@@ -65,9 +70,10 @@ pyro = Client(
 )
     
 if __name__ == '__main__':
-    print("PYRO Started")
+    print("[DREAMFOUND] - PYROGRAM Started")
     pyro.start()
-    print("AIO Started")
+    print("[DREAMFOUND] - AIOGRAM  Started")
     executor.start_polling(aio)
     idle()
     pyro.stop()
+    print("[DREAMFOUND] - BOT Stoped")
