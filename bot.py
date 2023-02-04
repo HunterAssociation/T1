@@ -69,5 +69,5 @@ if __name__ == '__main__':
     executor.start_polling(aio)
     print("PYRO Started")
     pyro.start()
-    await idle()
+    idle()
     pyro.stop()
