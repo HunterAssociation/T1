@@ -1,5 +1,6 @@
+import os
 import asyncio
-
+from dotenv import load_dotenv
 from pyrogram import Client, idle
 
 from aiogram import Bot, Dispatcher, executor, types
@@ -7,7 +8,6 @@ from aiogram.types.web_app_info import WebAppInfo
 from aiogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton, ReplyKeyboardMarkup, KeyboardButton
 
 from asset import message, inline
-from config import BOT_TOKEN, API_ID, API_HASH, MUST_JOIN
 
 bot = Bot(token=BOT_TOKEN)
 aio = Dispatcher(bot)
@@ -57,7 +57,14 @@ async def start(m:Message):
 #           R U N   C L I E N T           #
 ###########################################
 
-MUST_JOIN = MUST_JOIN
+if os.path.exists("config.env"):
+    load_dotenv("config.env")
+
+API_ID = int(os.getenv("API_ID"))
+API_HASH = os.getenv("API_HASH")
+BOT_TOKEN = os.getenv("BOT_TOKEN")
+BOT_USERNAME = os.getenv("BOT_USERNAME")
+MUST_JOIN = os.getenv('MUST_JOIN', None)
 if MUST_JOIN.startswith("@"):
         MUST_JOIN = MUST_JOIN.replace("@", "")
 
