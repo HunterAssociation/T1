@@ -87,6 +87,30 @@ async def ZERO(m:Message):
     await m.delete()
     await ZERO1.delete()
     await ZERO2.delete()
+    
+    
+    
+    
+    
+###########################################
+#                M E N U  A               #
+###########################################
+@aio.message_handler(lambda message : message.text == 'ᴀ',state='*')
+async def MENU_A(m:Message):
+    A1 = await bot.send_message(m.chat.id, text=message.M_A_1, reply_markup=inline.K_A_1
+    A2 = await bot.send_photo(m.chat.id, photo="https://telegra.ph/file/b94c0d55fee8aec1a590b.jpg", caption=message.M_A_2, parse_mode="html", reply_markup=inline.I_A_2)
+    A3 = await bot.send_photo(m.chat.id, photo="https://telegra.ph/file/8504a80b3761e86c4b618.jpg", caption=message.M_A_3, parse_mode="html", reply_markup=inline.I_A_3)
+    A4 = await bot.send_photo(m.chat.id, photo="https://telegra.ph/file/8504a80b3761e86c4b618.jpg", caption=message.M_A_4, parse_mode="html", reply_markup=inline.I_A_4)
+    A5 = await bot.send_photo(m.chat.id, photo="https://telegra.ph/file/8504a80b3761e86c4b618.jpg", caption=message.M_A_5, parse_mode="html", reply_markup=inline.I_A_5)
+    A6 = await bot.send_photo(m.chat.id, photo="https://telegra.ph/file/8504a80b3761e86c4b618.jpg", caption=message.M_A_6, parse_mode="html", reply_markup=inline.I_A_6)
+    A7 = await bot.send_photo(m.chat.id, photo="https://telegra.ph/file/8504a80b3761e86c4b618.jpg", caption=message.M_A_7, parse_mode="html", reply_markup=inline.I_A_7)
+    A8 = await bot.send_photo(m.chat.id, photo="https://telegra.ph/file/8504a80b3761e86c4b618.jpg", caption=message.M_A_8, parse_mode="html", reply_markup=inline.I_A_8)
+    A9 = await bot.send_photo(m.chat.id, photo="https://telegra.ph/file/8504a80b3761e86c4b618.jpg", caption=message.M_A_9, parse_mode="html", reply_markup=inline.I_A_9)
+    A10 = await bot.send_photo(m.chat.id, photo="https://telegra.ph/file/8504a80b3761e86c4b618.jpg", caption=message.M_A_10, parse_mode="html", reply_markup=inline.I_A_10
+    await asyncio.sleep(300)
+    await m.delete()
+    await A1lete()
+    await ZERO2.delete()
 
 
 
