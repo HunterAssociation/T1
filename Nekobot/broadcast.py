@@ -2,7 +2,7 @@ import asyncio
 from pyrogram.types import Message
 from pyrogram import Client, filters
 from pyrogram.errors import FloodWait
-from Nekopoi.Admins.Database.sql import query_msg
+from Nekobot.Database.sql import query_msg
 
 from config import AUTH_USERS
 
