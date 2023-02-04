@@ -74,7 +74,6 @@ async def hentai(m:Message):
           KeyboardButton("ᴠ"), KeyboardButton("ᴡ"), KeyboardButton("x")).add(
           KeyboardButton("ʏ"), KeyboardButton("ᴢ"), KeyboardButton("☰")).add(
           KeyboardButton("𝗕𝗘𝗥𝗔𝗡𝗗𝗔"))
-       )
     )
 
 
