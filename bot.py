@@ -7,7 +7,7 @@ from aiogram.types.web_app_info import WebAppInfo
 from aiogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton, ReplyKeyboardMarkup, KeyboardButton
 
 from asset import message, inline
-from config import BOT_TOKEN, API_ID, API_HASH
+from config import BOT_TOKEN, API_ID, API_HASH, MUST_JOIN
 
 bot = Bot(token=BOT_TOKEN)
 aio = Dispatcher(bot)
@@ -56,6 +56,10 @@ async def start(m:Message):
 ###########################################
 #           R U N   C L I E N T           #
 ###########################################
+
+MUST_JOIN = MUST_JOIN
+if MUST_JOIN.startswith("@"):
+        MUST_JOIN = MUST_JOIN.replace("@", "")
 
 pyro = Client(
     "Nekobot",
