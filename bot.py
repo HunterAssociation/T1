@@ -41,7 +41,7 @@ async def start(m:Message):
 ###########################################
 #              B E R A N D A              #
 ###########################################
-@aio.message_handler()
+@aio.message_handler(content_types=['text'])
 async def beranda(m:Message):
     user_id = m.from_user.id
     user_name = m.from_user.first_name
