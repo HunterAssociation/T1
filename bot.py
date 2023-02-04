@@ -41,7 +41,7 @@ async def start(m:Message):
 ###########################################
 #              B E R A N D A              #
 ###########################################
-@aio.message_handler(commands=["tes"], commands_prefix="")
+@aio.message_handler(commands=["tes"], commands_prefix="!")
 async def start(m:Message):
     user_id = m.from_user.id
     user_name = m.from_user.first_name
@@ -76,4 +76,4 @@ if __name__ == '__main__':
     executor.start_polling(aio)
     idle()
     pyro.stop()
-    print("[DREAMFOUND] - BOT Stoped")
+    print("BOT Stoped")
