@@ -50,7 +50,7 @@ async def start(m:Message):
 async def beranda(m:Message):
     user_id = m.from_user.id
     user_name = m.from_user.first_name
-    if message.text == "𝗟𝗔𝗧𝗘𝗦𝗧":
+    if m.text == "𝗟𝗔𝗧𝗘𝗦𝗧":
        await message.answer("Opo Cok")
 
     await asyncio.sleep(300)
