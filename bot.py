@@ -54,6 +54,7 @@ async def hentai(m:Message):
     START1 = await bot.send_message(
        m.chat.id,
        text="<b>𝌆 Hentai List :</b>",
+       parse_mode='html',
        reply_markup=ReplyKeyboardMarkup(resize_keyboard=True).add(
           KeyboardButton("❖"), KeyboardButton("ᴀ"), KeyboardButton("ʙ")).add(
           KeyboardButton("ᴄ"), KeyboardButton("ᴅ"), KeyboardButton("ᴇ")).add(
