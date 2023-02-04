@@ -1,4 +1,4 @@
-from aiogram import Message
+from aiogram.types import Message
 from bot import aio
 
 @aio.message_handler(commands=["tes"])
