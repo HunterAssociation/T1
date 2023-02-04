@@ -81,8 +81,8 @@ async def hentai(m:Message):
 @aio.message_handler(lambda message : message.text == '❖',state='*')
 async def ZERO(m:Message):
     ZERO1 = await bot.send_message(m.chat.id, text=message.M_ZERO_1, reply_markup=inline.K_END)
-    ZERO2 = await bot.send_photo(m.chat.id, photo="https://telegra.ph/file/b94c0d55fee8aec1a590b.jpg", caption=message.M_ZERO_2, reply_markup=inline.I_ZERO_2)
-    ZERO3 = await bot.send_photo(m.chat.id, photo="https://telegra.ph/file/8504a80b3761e86c4b618.jpg", caption=message.M_ZERO_3, reply_markup=inline.I_ZERO_3)
+    ZERO2 = await bot.send_photo(m.chat.id, photo="https://telegra.ph/file/b94c0d55fee8aec1a590b.jpg", caption=message.M_ZERO_2, parse_mode="html", reply_markup=inline.I_ZERO_2)
+    ZERO3 = await bot.send_photo(m.chat.id, photo="https://telegra.ph/file/8504a80b3761e86c4b618.jpg", caption=message.M_ZERO_3, parse_mode="html", reply_markup=inline.I_ZERO_3)
     await asyncio.sleep(300)
     await m.delete()
     await ZERO1.delete()
