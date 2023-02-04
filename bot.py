@@ -55,6 +55,34 @@ async def start(m:Message):
 
 
 ###########################################
+#               H E N T A I               #
+###########################################
+@aio.message_handler(lambda message : message.text == '𝗛𝗘𝗡𝗧𝗔𝗜',state='*')
+async def hentai(m:Message):
+    
+    START1 = await bot.send_message(
+       m.chat.id,
+       text="➜ 𝙱𝚎𝚛𝚊𝚗𝚍𝚊",
+       reply_markup=ReplyKeyboardMarkup(resize_keyboard=True).add(
+          KeyboardButton("❖"), KeyboardButton("ᴀ"), KeyboardButton("ʙ")).add(
+          KeyboardButton("ᴄ"), KeyboardButton("ᴅ"), KeyboardButton("ᴇ")).add(
+          KeyboardButton("ꜰ"), KeyboardButton("ɢ"), KeyboardButton("ʜ")).add(
+          KeyboardButton("ɪ"), KeyboardButton("ᴊ"), KeyboardButton("ᴋ")).add(
+          KeyboardButton("ʟ"), KeyboardButton("ᴍ"), KeyboardButton("ɴ")).add(
+          KeyboardButton("ᴏ"), KeyboardButton("ᴘ"), KeyboardButton("ʀ")).add(
+          KeyboardButton("ꜱ"), KeyboardButton("ᴛ"), KeyboardButton("ᴜ")).add(
+          KeyboardButton("ᴠ"), KeyboardButton("ᴡ"), KeyboardButton("x")).add(
+          KeyboardButton("ʏ"), KeyboardButton("ᴢ"), KeyboardButton("☰")).add(
+          KeyboardButton("𝗕𝗘𝗥𝗔𝗡𝗗𝗔"))
+       )
+    )
+
+
+
+
+
+
+###########################################
 #           R U N   C L I E N T           #
 ###########################################
 
