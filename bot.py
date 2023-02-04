@@ -15,7 +15,7 @@ aio = Dispatcher(bot)
 ###########################################
 #                S T A R T                #
 ###########################################
-@aio.message_handler(commands="start")
+@aio.message_handler(lambda message : message.text == '/start' or message.text == '𝗟𝗔𝗧𝗘𝗦𝗧',state='*')
 async def start(m:Message):
     user_id = m.from_user.id
     user_name = m.from_user.first_name
@@ -46,15 +46,6 @@ async def start(m:Message):
 ###########################################
 #              B E R A N D A              #
 ###########################################
-@aio.message_handler(content_types=['text'])
-async def beranda(m:Message):
-    user_id = m.from_user.id
-    user_name = m.from_user.first_name
-    if m.text == "𝗟𝗔𝗧𝗘𝗦𝗧":
-       await message.reply("Opo Cok")
-
-    await asyncio.sleep(300)
-    await m.delete()
 
 
 
