@@ -26,16 +26,7 @@ async def start(m:Message):
     user_id = m.from_user.id
     user_name = m.from_user.first_name
 
-    START1 = await bot.send_message(
-       m.chat.id,
-       text="➜ 𝙱𝚎𝚛𝚊𝚗𝚍𝚊",
-       reply_markup=ReplyKeyboardMarkup(resize_keyboard=True).add(
-          KeyboardButton("𝗟𝗔𝗧𝗘𝗦𝗧"),
-          KeyboardButton("𝗛𝗘𝗡𝗧𝗔𝗜")).add(
-          KeyboardButton("𝗝𝗔𝗩"),
-          KeyboardButton("𝟮𝗗/𝟯𝗗")
-       )
-    )
+    START1 = await bot.send_message(m.chat.id, text="➜ 𝙱𝚎𝚛𝚊𝚗𝚍𝚊", reply_markup=ReplyKeyboardMarkup(resize_keyboard=True).add(KeyboardButton("𝗟𝗔𝗧𝗘𝗦𝗧"), KeyboardButton("𝗛𝗘𝗡𝗧𝗔𝗜")).add(KeyboardButton("𝗝𝗔𝗩"), KeyboardButton("𝟮𝗗/𝟯𝗗")))
     START2 = await bot.send_photo(
        m.chat.id,
        photo="https://telegra.ph/file/ef7261e2a4bec533ec771.jpg",
