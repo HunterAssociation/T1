@@ -7,6 +7,7 @@ from aiogram import Bot, Dispatcher, executor, types
 from aiogram.types.web_app_info import WebAppInfo
 from aiogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton, ReplyKeyboardMarkup, KeyboardButton
 
+from config.env import BOT_TOKEN
 from asset import message, inline
 
 bot = Bot(token=BOT_TOKEN)
