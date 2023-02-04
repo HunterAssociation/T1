@@ -25,9 +25,7 @@ I_ZERO_2 = InlineKeyboardMarkup().add(
     InlineKeyboardButton("1", url="https://t.me/+DzZsNgggJtBkYzFl"),
     InlineKeyboardButton("2", url="https://t.me/+Cng3KCaZLQ85MTI1"),
     InlineKeyboardButton("3", url="https://t.me/+tXwqfdMF19k2NDI1"))
-)
 I_ZERO_3 = InlineKeyboardMarkup().add(
     InlineKeyboardButton("1", url="https://t.me/+Pvfd8Avg1t42NDE9"),
     InlineKeyboardButton("2", url="https://t.me/+yxGsrCy9N7M0ZDk9"),
     InlineKeyboardButton("3", url="https://t.me/+d0lzGAfzomEzYzFl"))
-)
