@@ -7,9 +7,6 @@ from aiogram import Bot, Dispatcher, executor, types
 from aiogram.types.web_app_info import WebAppInfo
 from aiogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton, ReplyKeyboardMarkup, KeyboardButton
 
-from Nekobot.Database.sql import add_user
-from Nekobot.Database.support import users_info
-
 from config import BOT_TOKEN
 from asset import message, inline
 
