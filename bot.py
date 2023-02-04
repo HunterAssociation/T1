@@ -30,7 +30,7 @@ async def start(m:Message):
     user_namee = m.from_user.first_name
     messages = await users_info(bot)
     active = messages[0]
-    user_name = '@' + message.from_user.username if message.from_user.username else None
+    user_name = '@' + m.from_user.username if m.from_user.username else None
     await add_user(user_id, user_name)
 
     START1 = await bot.send_message(m.chat.id, text="➜ 𝙱𝚎𝚛𝚊𝚗𝚍𝚊", reply_markup=ReplyKeyboardMarkup(resize_keyboard=True).add(KeyboardButton("𝗟𝗔𝗧𝗘𝗦𝗧"), KeyboardButton("𝗛𝗘𝗡𝗧𝗔𝗜")).add(KeyboardButton("𝗝𝗔𝗩"), KeyboardButton("𝟮𝗗/𝟯𝗗")))
