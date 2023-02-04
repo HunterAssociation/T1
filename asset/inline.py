@@ -31,7 +31,7 @@ I_ZERO_3 = InlineKeyboardMarkup().add(
     InlineKeyboardButton("3", url="https://t.me/+d0lzGAfzomEzYzFl"))
 
 
-K_A_1 = ReplyKeyboardMarkup().add(
+K_A_1 = ReplyKeyboardMarkup(resize_keyboard=True).add(
     KeyboardButton("𝙼𝚎𝚗𝚞 𝙰 - 𝙿𝚊𝚐𝚎 𝟸")).add(
     KeyboardButton("𝗞𝗘𝗠𝗕𝗔𝗟𝗜"),
     KeyboardButton("𝗕𝗘𝗥𝗔𝗡𝗗𝗔"))
