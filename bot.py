@@ -87,6 +87,7 @@ API_ID = int(os.getenv("API_ID"))
 API_HASH = os.getenv("API_HASH")
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 BOT_USERNAME = os.getenv("BOT_USERNAME")
+AUTH_USERS = set(int(x) for x in os.environ.get("AUTH_USERS", "").split())
 MUST_JOIN = os.getenv('MUST_JOIN', None)
 if MUST_JOIN.startswith("@"):
         MUST_JOIN = MUST_JOIN.replace("@", "")
