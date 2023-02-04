@@ -7,7 +7,6 @@ from aiogram import Bot, Dispatcher, executor, types
 from aiogram.types.web_app_info import WebAppInfo
 from aiogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton, ReplyKeyboardMarkup, KeyboardButton
 
-from Nekobot.Database.sql import add_user
 from Nekobot.Database.support import users_info
 
 from config import BOT_TOKEN
@@ -27,21 +26,19 @@ aio = Dispatcher(bot)
 @aio.message_handler(lambda message : message.text == '/start' or message.text == '𝗕𝗘𝗥𝗔𝗡𝗗𝗔',state='*')
 async def start(m:Message):
     user_id = m.from_user.id
-    user_namee = m.from_user.first_name
+    user_name = m.from_user.first_name
     messages = await users_info(bot)
     active = messages[0]
-    user_name = '@' + m.from_user.username if m.from_user.username else None
 
     START1 = await bot.send_message(m.chat.id, text="➜ 𝙱𝚎𝚛𝚊𝚗𝚍𝚊", reply_markup=ReplyKeyboardMarkup(resize_keyboard=True).add(KeyboardButton("𝗟𝗔𝗧𝗘𝗦𝗧"), KeyboardButton("𝗛𝗘𝗡𝗧𝗔𝗜")).add(KeyboardButton("𝗝𝗔𝗩"), KeyboardButton("𝟮𝗗/𝟯𝗗")))
     START2 = await bot.send_photo(
        m.chat.id,
        photo="https://telegra.ph/file/ef7261e2a4bec533ec771.jpg",
-       caption=f"<b>Hai: <a href='tg://user?id={user_id}'>{user_namee}</a>\nSelamat datang di NekoPoiBot. \n\nFitur Bot:</b> \n➥ No Iklan.\n➥ Akses Sangat Mudah.\n➥ Bebas Streaming & Download.\n\n\n✥ <b>Total Users ⋙</b> <code>{active}</code> Users",
+       caption=f"<b>Hai: <a href='tg://user?id={user_id}'>{user_name}</a>\nSelamat datang di NekoPoiBot. \n\nFitur Bot:</b> \n➥ No Iklan.\n➥ Akses Sangat Mudah.\n➥ Bebas Streaming & Download.\n\n\n✥ <b>Total Users ⋙</b> <code>{active}</code> Users",
        parse_mode='html',
        reply_markup=inline.I_START
     )
 
-    await add_user(user_id, user_name)
     await asyncio.sleep(300)
     await m.delete()
     await START1.delete()
