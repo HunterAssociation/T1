@@ -3,7 +3,7 @@ from pyrogram import Client, filters
 from pyrogram.errors import FloodWait
 from Nekobot.Database.support import users_info
 
-from config import AUTH_USERS
+from bot import AUTH_USERS
 
 
 # ------------------------------- Statistics --------------------------------- #
