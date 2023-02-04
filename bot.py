@@ -12,10 +12,15 @@ from config import BOT_TOKEN, API_ID, API_HASH
 bot = Bot(token=BOT_TOKEN)
 aio = Dispatcher(bot)
 
+
+
+
+
+
 ###########################################
-#                S T A R T                #
+#      S T A R T  &&  B E R A N D A       #
 ###########################################
-@aio.message_handler(lambda message : message.text == '/start' or message.text == '𝗟𝗔𝗧𝗘𝗦𝗧',state='*')
+@aio.message_handler(lambda message : message.text == '/start' or message.text == '𝗕𝗘𝗥𝗔𝗡𝗗𝗔',state='*')
 async def start(m:Message):
     user_id = m.from_user.id
     user_name = m.from_user.first_name
@@ -43,9 +48,7 @@ async def start(m:Message):
     await START1.delete()
     await START2.delete()
 
-###########################################
-#              B E R A N D A              #
-###########################################
+
 
 
 
