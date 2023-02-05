@@ -90,3 +90,57 @@ I_A_15 = InlineKeyboardMarkup().add(
 I_A_16 = InlineKeyboardMarkup().add(
     InlineKeyboardButton("1", url="https://t.me/+chbx-O6z5c1jN2M1"),
     InlineKeyboardButton("2", url="https://t.me/+LORaa7kHrBVlNGU1"))
+
+
+K_B_1 = ReplyKeyboardMarkup(resize_keyboard=True).add(
+    KeyboardButton("𝙼𝚎𝚗𝚞 𝙰 - 𝙿𝚊𝚐𝚎 𝟸")).add(
+    KeyboardButton("𝗞𝗘𝗠𝗕𝗔𝗟𝗜"),
+    KeyboardButton("𝗕𝗘𝗥𝗔𝗡𝗗𝗔"))
+I_B_2 = InlineKeyboardMarkup().add(
+    InlineKeyboardButton("1", url="ASS"),
+    InlineKeyboardButton("2", url="ASAD"),
+    InlineKeyboardButton("3", url="AAD"))
+I_B_3 = InlineKeyboardMarkup().add(
+    InlineKeyboardButton("1", url="ASS"),
+    InlineKeyboardButton("2", url="ASAD"),
+    InlineKeyboardButton("3", url="AAD"))
+I_B_4 = InlineKeyboardMarkup().add(
+    InlineKeyboardButton("1", url="ASS"),
+    InlineKeyboardButton("2", url="ASAD"),
+    InlineKeyboardButton("3", url="AAD"))
+I_B_5 = InlineKeyboardMarkup().add(
+    InlineKeyboardButton("1", url="ASS"),
+    InlineKeyboardButton("2", url="ASAD"),
+    InlineKeyboardButton("3", url="AAD"))
+I_B_6 = InlineKeyboardMarkup().add(
+    InlineKeyboardButton("1", url="ASS"),
+    InlineKeyboardButton("2", url="ASAD"),
+    InlineKeyboardButton("3", url="AAD"))
+I_B_7 = InlineKeyboardMarkup().add(
+    InlineKeyboardButton("1", url="ASS"),
+    InlineKeyboardButton("2", url="ASAD"),
+    InlineKeyboardButton("3", url="AAD"))
+I_B_8 = InlineKeyboardMarkup().add(
+    InlineKeyboardButton("1", url="ASS"),
+    InlineKeyboardButton("2", url="ASAD"),
+    InlineKeyboardButton("3", url="AAD"))
+I_B_9 = InlineKeyboardMarkup().add(
+    InlineKeyboardButton("1", url="ASS"),
+    InlineKeyboardButton("2", url="ASAD"),
+    InlineKeyboardButton("3", url="AAD"))
+I_B_10 = InlineKeyboardMarkup().add(
+    InlineKeyboardButton("1", url="ASS"),
+    InlineKeyboardButton("2", url="ASAD"),
+    InlineKeyboardButton("3", url="AAD"))
+I_B_12 = InlineKeyboardMarkup().add(
+    InlineKeyboardButton("1", url="ASS"),
+    InlineKeyboardButton("2", url="ASAD"),
+    InlineKeyboardButton("3", url="AAD"))
+I_B_13 = InlineKeyboardMarkup().add(
+    InlineKeyboardButton("1", url="ASS"),
+    InlineKeyboardButton("2", url="ASAD"),
+    InlineKeyboardButton("3", url="AAD"))
+I_B_14 = InlineKeyboardMarkup().add(
+    InlineKeyboardButton("1", url="ASS"),
+    InlineKeyboardButton("2", url="ASAD"),
+    InlineKeyboardButton("3", url="AAD"))
