@@ -79,12 +79,33 @@ M_F_7 = "<b>1 ➽ Furyou ni Hamerarete Jusei Suru Kyonyuu Okaasan The Animation\
 M_F_8 = "<b>1 ➽ Futabu! Mix: Futanari World\n\n2 ➽ Futago no Haha Seihonnou\n\n3 ➽ Fuurinkanzan</b>"
 
 
-
 M_G_1 = "➥ 𝙼𝚎𝚗𝚞 𝙶 - 𝙿𝚊𝚐𝚎 𝟷"
-M_G_2 = "<b>1 ➽ Gaki ni Modotte Yarinaoshi\n\n2 ➽ Gakuen 3\n\n3 ➽ Gakuen de Jikan yo Tomare</b>
-M_G_3 = "<b>1 ➽ Gakuen no Ikenie: Nagusami Mono to Kashita Kyonyuu Furyou Shoujo\n\n2 ➽ Gakuen no Shuryousha [Wicked Lessons]\n\n3 ➽ Gakuen Saimin Reido</b>
-M_G_4 = "<b>1 ➽ Gakuen Shinshoku: XX of the Dead\n\n2 ➽ Garden\n\n3 ➽ Garden: Takamine-ke no Nirinka – The Animation</b>
-M_G_5 = "<b>1 ➽ Gekka Bijin\n\n2 ➽ Genkaku Cool na Sensei ga Aheboteochi!\n\n3 ➽ Genmukan</b>
-M_G_6 = "<b>1 ➽ Gibo no Toiki : Haitoku Kokoro ni Tadayou Haha no Iroka\n\n2 ➽ Gibomai\n\n3 ➽ Girls Rush The Animation</b>
-M_G_7 = "<b>1 ➽ Gishi wa Yan Mama Junyuu Chuu\n\n2 ➽ Gitai Saimin\n\n3 ➽ Gogo no Kouchou: Junai Mellow yori</b>
-M_G_8 = "<b>1 ➽ Green Eyes: Ane Kyun! yori The Animation\n\n2 ➽ Gyakuten Majo Saiban</b>
+M_G_2 = "<b>1 ➽ Gaki ni Modotte Yarinaoshi\n\n2 ➽ Gakuen 3\n\n3 ➽ Gakuen de Jikan yo Tomare</b>"
+M_G_3 = "<b>1 ➽ Gakuen no Ikenie: Nagusami Mono to Kashita Kyonyuu Furyou Shoujo\n\n2 ➽ Gakuen no Shuryousha [Wicked Lessons]\n\n3 ➽ Gakuen Saimin Reido</b>"
+M_G_4 = "<b>1 ➽ Gakuen Shinshoku: XX of the Dead\n\n2 ➽ Garden\n\n3 ➽ Garden: Takamine-ke no Nirinka – The Animation</b>"
+M_G_5 = "<b>1 ➽ Gekka Bijin\n\n2 ➽ Genkaku Cool na Sensei ga Aheboteochi!\n\n3 ➽ Genmukan</b>"
+M_G_6 = "<b>1 ➽ Gibo no Toiki : Haitoku Kokoro ni Tadayou Haha no Iroka\n\n2 ➽ Gibomai\n\n3 ➽ Girls Rush The Animation</b>"
+M_G_7 = "<b>1 ➽ Gishi wa Yan Mama Junyuu Chuu\n\n2 ➽ Gitai Saimin\n\n3 ➽ Gogo no Kouchou: Junai Mellow yori</b>"
+M_G_8 = "<b>1 ➽ Green Eyes: Ane Kyun! yori The Animation\n\n2 ➽ Gyakuten Majo Saiban</b>"
+
+
+M_H_1 = "➥ 𝙼𝚎𝚗𝚞 𝙷 - 𝙿𝚊𝚐𝚎 𝟷"
+M_H_2 = "<b>1 ➽ Hachishaku Hachiwa Keraku Meguri: Igyou Kaikitan The Animation\n\n2 ➽ Haha Sange (Step MILF)\n\n3 ➽ Haitoku no Kyoukai</b>"
+M_H_3 = "<b>1 ➽ Haitokuzuma\n\n2 ➽ Haji+ Shinchishin\n\n3 ➽ Hajimete no Hitozuma</b>"
+M_H_4 = "<b>1 ➽ Hajimete no Orusuban\n\n2 ➽ Hakoiri Shoujo: Virgin Territory\n\n3 ➽ Hana no Joshi Announcer: Newscaster Etsuko</b>"
+M_H_5 = "<b>1 ➽ Harem Camp!\n\n2 ➽ Harem Cult\n\n3 ➽ Harem Time</b>"
+M_H_6 = "<b>1 ➽ Haritsuke\n\n2 ➽ Hasande Ageru\n\n3 ➽ Hataraku Otona no Renai Jijou The Animation</b>"
+M_H_7 = "<b>1 ➽ Hatsu Inu The Animation\n\n2 ➽ Hatsu Inu 2 The Animation\n\n3 ➽ Hatsujou Switch: Otosareta Shoujo-tachi</b>"
+M_H_8 = "<b>1 ➽ Heartful Maman\n\n2 ➽ Heisa Byouin (Naughty Nurses)\n\n3 ➽ Helter Skelter: Hakudaku no Mura</b>"
+M_H_9 = "<b>1 ➽ HHH Triple Ecchi\n\n2 ➽ Himawari wa Yoru ni Saku\n\n3 ➽ Hime-sama Gentei!</b>"
+M_H_10 = "<b>1 ➽ Hime-sama Love Life!\n\n2 ➽ Himekishi Angelica\n\n3 ➽ Himekishi Olivia</b>"
+M_H_11 = "➥ 𝙼𝚎𝚗𝚞 𝙷 - 𝙿𝚊𝚐𝚎 𝟸"
+M_H_12 = "<b>1 ➽ Himitsu no Kichi\n\n2 ➽ Hinagiku Virgin Lost Club\n\n3 ➽ Hishoka Drop The Animation</b>"
+M_H_13 = "<b>1 ➽ Hissatsu Chikan Nin\n\n2 ➽ Hitou Meguri Kakure Yu\n\n3 ➽ Hitou Meguri Kakure Yu: Mao-hen</b>"
+M_H_14 = "<b>1 ➽ Hitozuma Cosplay Kissa (Cosplay Cafe)\n\n2 ➽ Hitozuma Cosplay Kissa 2: Hitozuma LoveLove\n\n3 ➽ Hitozuma Kasumi-san</b>"
+M_H_15 = "<b>1 ➽ Hitozuma Koukan Nikki\n\n2 ➽ Hitozuma Life: One Time Gal\n\n3 ➽ Hitozuma Ryoujoku Sankanbi (Desperate Carnal Housewives)</b>"
+M_H_16 = "<b>1 ➽ Hitozuma, Mitsu to Niku\n\n2 ➽ Honoo no Haramase Doukyuusei\n\n3 ➽ Honoo no Haramase Motto! Hatsuiku! Karada Sokutei 2</b>"
+M_H_17 = "<b>1 ➽ Honoo no Haramase Oppai: Ero Appli Gakuen The Animation\n\n2 ➽ Honoo no Haramase Paidol My★Star Gakuen Z The Animation\n\n3 ➽ Hontou ni Atta Hitozuma Furin Kokuhaku</b>"
+M_H_18 = "<b>1 ➽ Houkago 2: Saiyuri\n\n2 ➽ Houkago Initiation\n\n3 ➽ Houkago no Yuutousei</b>"
+M_H_19 = "<b>1 ➽ Houkago: Nureta Seifuku (After Class Lesson)\n\n2 ➽ Hump Bang\n\n3 ➽ Hyakkiya Tantei Jimusho: Hyakkiya Hikari no Youkai Jikenbo</b>"
+M_H_20 = "<b>1 ➽ Hyoudou Ibuki: Kanpeki Ibuki Kaichou ga Kousoku Do M!? na Wake</b>"
