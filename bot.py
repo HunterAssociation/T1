@@ -270,6 +270,34 @@ async def MENU_E(m:Message):
     await E8.delete()
     await E9.delete()
     await E10.delete()
+    
+    
+    
+    
+    
+###########################################
+#               M E N U - F               #
+###########################################
+@aio.message_handler(lambda message : message.text == 'ꜰ',state='*')
+async def MENU_F(m:Message):
+    F1 = await bot.send_message(m.chat.id, text=message.M_F_1, reply_markup=inline.K_END)
+    F2 = await bot.send_photo(m.chat.id, photo="https://telegra.ph/file/9813fcb41923f83e7a2db.jpg", caption=message.M_F_2, parse_mode="html", reply_markup=inline.I_F_2)
+    F3 = await bot.send_photo(m.chat.id, photo="https://telegra.ph/file/0826ed81f4d105e46bd70.jpg", caption=message.M_F_3, parse_mode="html", reply_markup=inline.I_F_3)
+    F4 = await bot.send_photo(m.chat.id, photo="https://telegra.ph/file/c0fe0361c7d6dd73253a5.jpg", caption=message.M_F_4, parse_mode="html", reply_markup=inline.I_F_4)
+    F5 = await bot.send_photo(m.chat.id, photo="https://telegra.ph/file/34f4dca7bf63796bf3acf.jpg", caption=message.M_F_5, parse_mode="html", reply_markup=inline.I_F_5)
+    F6 = await bot.send_photo(m.chat.id, photo="https://telegra.ph/file/953a99a86618ebbccc33b.jpg", caption=message.M_F_6, parse_mode="html", reply_markup=inline.I_F_6)
+    F7 = await bot.send_photo(m.chat.id, photo="https://telegra.ph/file/f6baa2e954a977d1a512c.jpg", caption=message.M_F_7, parse_mode="html", reply_markup=inline.I_F_7)
+    F8 = await bot.send_photo(m.chat.id, photo="https://telegra.ph/file/eb097d820d4c229792cc9.jpg", caption=message.M_F_8, parse_mode="html", reply_markup=inline.I_F_8)
+    await asyncio.sleep(300)
+    await m.delete()
+    await F1.delete()
+    await F2.delete()
+    await F3.delete()
+    await F4.delete()
+    await F5.delete()
+    await F6.delete()
+    await F7.delete()
+    await F8.delete()
 
 
 
