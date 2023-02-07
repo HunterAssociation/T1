@@ -34,3 +34,16 @@ M_B_10 = "<b>1 ➽ Boku to Misaki-sensei\n\n2 ➽ Boku to Nurse no Kenshuu Nissh
 M_B_11 = "➥ 𝙼𝚎𝚗𝚞 𝙱 - 𝙿𝚊𝚐𝚎 𝟸"
 M_B_12 = "<b>1 ➽ Brandish\n\n2 ➽ Busou Shoujotai: Blade Briders The Animation\n\n3 ➽ Bust to Bust: Chichi wa Chichi ni</b>"
 M_B_13 = "<b>1 ➽ Buta Himesama\n\n2 ➽ Buta no Gotoki Sanzoku ni Torawarete Shojo wo Ubawareru Kyonyuu Himekishi & Onna Senshi</b>"
+
+
+M_C_1 = "➥ 𝙼𝚎𝚗𝚞 𝙲 - 𝙿𝚊𝚐𝚎 𝟷"
+M_C_2 = "<b>1 ➽ Cafe Junkie\n\n2 ➽ Cambrian\n\n3 ➽ Cartagra: Tsuki Gurui no Yamai</b>"
+M_C_3 = "<b>1 ➽ Cele Kano\n\n2 ➽ Cherry & Gal’s\n\n3 ➽ Chicchana Onaka</b>"
+M_C_4 = "<b>1 ➽ Chichiiro Toiki\n\n2 ➽ Chii-chan Kaihatsu Nikki\n\n3 ➽ Chiisana Tsubomi no Sono Oku ni…</b>"
+M_C_5 = "<b>1 ➽ Chijoku no Seifuku\n\n2 ➽ Chijoku Shinsatsushitsu (Doctor Shameless)\n\n3 ➽ Chikan Juunin-tai The Animation</b>"
+M_C_6 = "<b>1 ➽ Chikan no Licence\n\n2 ➽ Chikan Shita Joshikousei to Sonogo, Musaboriau you na Doero Junai\n\n3 ➽ Chinetsu Karte: The Devilish Cherry</b>"
+M_C_7 = "<b>1 ➽ Chizuru-chan Kaihatsu Nikki\n\n2 ➽ Choukou Sennin Haruka\n\n3 ➽ Choukou Tenshi Escalayer</b>"
+M_C_8 = "<b>1 ➽ Chu Shite Agechau: Oshikake Oneesan no Seikou Chiryou\n\n2 ➽ Classmate no Okaasan\n\n3 ➽ Cleavage</b>"
+M_C_9 = "<b>1 ➽ Colosseum no Senki: Another Story\n\n2 ➽ Cosplay Change: Pure-kei Joshidaisei no Kiken na Seiheki\n\n3 ➽ Cosplay Rakuen</b>"
+M_C_10 = "<b>1 ➽ Cosplay Roshutsu Kenkyuukai\n\n2 ➽ Creamy Pie\n\n3 ➽ Crimson Girls: Chikan Shihai</b>"
+
