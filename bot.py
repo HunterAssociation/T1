@@ -415,7 +415,7 @@ async def MENU_I(m:Message):
     await I9.delete()
     await I10.delete()
 @aio.message_handler(lambda message : message.text == '𝙸 - 𝙿𝚊𝚐𝚎 𝟸',state='*')
-async def MENU_H_page_2(m:Message):
+async def MENU_I_page_2(m:Message):
     I11 = await bot.send_message(m.chat.id, text=message.M_I_11, reply_markup=inline.K_END)
     I12 = await bot.send_photo(m.chat.id, photo="https://telegra.ph/file/6d32a00574fcaafa2eb5f.jpg", caption=message.M_I_12, parse_mode="html", reply_markup=inline.I_I_12)
     I13 = await bot.send_photo(m.chat.id, photo="https://telegra.ph/file/a71d4f7a7044092bb93fa.jpg", caption=message.M_I_13, parse_mode="html", reply_markup=inline.I_I_13)
@@ -432,6 +432,38 @@ async def MENU_H_page_2(m:Message):
     await I15.delete()
     await I16.delete()
     await I17.delete()
+    
+    
+    
+    
+    
+###########################################
+#               M E N U - J               #
+###########################################
+@aio.message_handler(lambda message : message.text == 'ᴊ',state='*')
+async def MENU_J(m:Message):
+    J1 = await bot.send_message(m.chat.id, text=message.M_J_1, reply_markup=inline.K_END)
+    J2 = await bot.send_photo(m.chat.id, photo="https://telegra.ph/file/45cbf3c15895f609b26e9.jpg", caption=message.M_J_2, parse_mode="html", reply_markup=inline.I_J_2)
+    J3 = await bot.send_photo(m.chat.id, photo="https://telegra.ph/file/a8c95f1ea57f26e41c059.jpg", caption=message.M_J_3, parse_mode="html", reply_markup=inline.I_J_3)
+    J4 = await bot.send_photo(m.chat.id, photo="https://telegra.ph/file/f167f22e0f9a78b9c64a5.jpg", caption=message.M_J_4, parse_mode="html", reply_markup=inline.I_J_4)
+    J5 = await bot.send_photo(m.chat.id, photo="https://telegra.ph/file/78781d6f29f97dcdc79bc.jpg", caption=message.M_J_5, parse_mode="html", reply_markup=inline.I_J_5)
+    J6 = await bot.send_photo(m.chat.id, photo="https://telegra.ph/file/1fe5f988b9700c2feab43.jpg", caption=message.M_J_6, parse_mode="html", reply_markup=inline.I_J_6)
+    J7 = await bot.send_photo(m.chat.id, photo="https://telegra.ph/file/17e02446158dbb057547e.jpg", caption=message.M_J_7, parse_mode="html", reply_markup=inline.I_J_7)
+    J8 = await bot.send_photo(m.chat.id, photo="https://telegra.ph/file/36df50dc58b1938767786.jpg", caption=message.M_J_8, parse_mode="html", reply_markup=inline.I_J_8)
+    J9 = await bot.send_photo(m.chat.id, photo="https://telegra.ph/file/bd80a4f337d2ac047cc73.jpg", caption=message.M_J_9, parse_mode="html", reply_markup=inline.I_J_9)
+    J10 = await bot.send_photo(m.chat.id, photo="https://telegra.ph/file/ff53d8ed73306870ac89b.jpg", caption=message.M_J_10, parse_mode="html", reply_markup=inline.I_J_10)
+    await asyncio.sleep(300)
+    await m.delete()
+    await J1.delete()
+    await J2.delete()
+    await J3.delete()
+    await J4.delete()
+    await J5.delete()
+    await J6.delete()
+    await J7.delete()
+    await J8.delete()
+    await J9.delete()
+    await J10.delete()
     
 
 
