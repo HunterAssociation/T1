@@ -379,3 +379,70 @@ I_H_19 = InlineKeyboardMarkup().add(
     InlineKeyboardButton("3", url="https://t.me/+zxh86cH1j5NmNWVl"))
 I_H_20 = InlineKeyboardMarkup().add(
     InlineKeyboardButton("1", url="https://t.me/+glW_924kbFg2YzFl"))
+
+
+
+K_I_1 = ReplyKeyboardMarkup(resize_keyboard=True).add(
+    KeyboardButton("𝙸 - 𝙿𝚊𝚐𝚎 𝟸")).add(
+    KeyboardButton("𝗞𝗘𝗠𝗕𝗔𝗟𝗜"),
+    KeyboardButton("𝗕𝗘𝗥𝗔𝗡𝗗𝗔"))
+I_I_2 = InlineKeyboardMarkup().add(
+    InlineKeyboardButton("1", url="https://t.me/+PxLIe1KBAZIzNzI1"),
+    InlineKeyboardButton("2", url="https://t.me/+G-xzPSZChPFiOGU1"),
+    InlineKeyboardButton("3", url="https://t.me/+7QDIAuLAVtMzZWFl"))
+I_I_3 = InlineKeyboardMarkup().add(
+    InlineKeyboardButton("1", url="https://t.me/+iIRStnJ8bssxZjI1"),
+    InlineKeyboardButton("2", url="https://t.me/+L7VQMl-uTGc0ODE1"),
+    InlineKeyboardButton("3", url="https://t.me/+mq-0UhOZ_UY3ZGFl"))
+I_I_4 = InlineKeyboardMarkup().add(
+    InlineKeyboardButton("1", url="https://t.me/+p93CfLQKTqo5MTk1"),
+    InlineKeyboardButton("2", url="https://t.me/+anHS8T1gQvI0YjE1"),
+    InlineKeyboardButton("3", url="https://t.me/+w4spCVwcnUBmNjBl"))
+I_I_5 = InlineKeyboardMarkup().add(
+    InlineKeyboardButton("1", url="https://t.me/+kBbn2wf8eA81MWI1"),
+    InlineKeyboardButton("2", url="https://t.me/+A65RlahwkIMzMjc1"),
+    InlineKeyboardButton("3", url="https://t.me/+-lCkzUmyveEyMjc1"))
+I_I_6 = InlineKeyboardMarkup().add(
+    InlineKeyboardButton("1", url="https://t.me/+JW4vKTlMX-MwNWU1"),
+    InlineKeyboardButton("2", url="https://t.me/+nGzoq_ivXudlNzg1"),
+    InlineKeyboardButton("3", url="https://t.me/+cJCQasKIZKw3ZTU1"))
+I_I_7 = InlineKeyboardMarkup().add(
+    InlineKeyboardButton("1", url="https://t.me/+5KSG9ieB_DxlNjFl"),
+    InlineKeyboardButton("2", url="https://t.me/+VNuFhgg020BhYjdl"),
+    InlineKeyboardButton("3", url="https://t.me/+GIOKL4TNcmNjZDY1"))
+I_I_8 = InlineKeyboardMarkup().add(
+    InlineKeyboardButton("1", url="https://t.me/+iw6UCsBJRmQ1YTY1"),
+    InlineKeyboardButton("2", url="https://t.me/+DNBHxZ7q45oyZWVl"),
+    InlineKeyboardButton("3", url="https://t.me/+_qH7oSjCIKg3OWNl"))
+I_I_9 = InlineKeyboardMarkup().add(
+    InlineKeyboardButton("1", url="https://t.me/+CUlCPfXzRuViNGE1"),
+    InlineKeyboardButton("2", url="https://t.me/+dm9VtyO6ugsyODc1"),
+    InlineKeyboardButton("3", url="https://t.me/+Fhlsw8VRpsRkMWNl"))
+I_I_10 = InlineKeyboardMarkup().add(
+    InlineKeyboardButton("1", url="https://t.me/+RjcoOG9y7802ZGRl"),
+    InlineKeyboardButton("2", url="https://t.me/+EjqNQBK0esBhNzBl"),
+    InlineKeyboardButton("3", url="https://t.me/+G74WCBKOKaJlMDc9"))
+I_I_12 = InlineKeyboardMarkup().add(
+    InlineKeyboardButton("1", url="https://t.me/+s-Mz_JkkL04yZTA1"),
+    InlineKeyboardButton("2", url="https://t.me/+s-tFB5_HkV0yNjg1"),
+    InlineKeyboardButton("3", url="https://t.me/+1MTu-icjdDZhZWE1"))
+I_I_13 = InlineKeyboardMarkup().add(
+    InlineKeyboardButton("1", url="https://t.me/+8CT3TKnDeYk0MTll"),
+    InlineKeyboardButton("2", url="https://t.me/+l49hwEN7q-9jMjBl"),
+    InlineKeyboardButton("3", url="https://t.me/+sv2N0wh-hOAwZmI1"))
+I_I_14 = InlineKeyboardMarkup().add(
+    InlineKeyboardButton("1", url="https://t.me/+GcHfWieEoYljMDdl"),
+    InlineKeyboardButton("2", url="https://t.me/+0x9l7WaA6rM5NzE1"),
+    InlineKeyboardButton("3", url="https://t.me/+vrOZUzB6or9iYmRl"))
+I_I_15 = InlineKeyboardMarkup().add(
+    InlineKeyboardButton("1", url="https://t.me/+0eDBZheYfKVmMWU9"),
+    InlineKeyboardButton("2", url="https://t.me/+-3vbQmEHHkw2OWNl"),
+    InlineKeyboardButton("3", url="https://t.me/+YpjpKeeF1NM3ZjQ1"))
+I_I_16 = InlineKeyboardMarkup().add(
+    InlineKeyboardButton("1", url="https://t.me/+GWJlAvtziZ41NjI1"),
+    InlineKeyboardButton("2", url="https://t.me/+A4v37c4VDyRjMWZl"),
+    InlineKeyboardButton("3", url="https://t.me/+9cZiO91l5rowOTI1"))
+I_I_17 = InlineKeyboardMarkup().add(
+    InlineKeyboardButton("1", url="https://t.me/+ogXulMNs-GQ4ODVl"),
+    InlineKeyboardButton("2", url="https://t.me/+dydo5rc33fcyMGRl"),
+    InlineKeyboardButton("3", url="https://t.me/+48Q_109wTUllMWY1"))
