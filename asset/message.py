@@ -67,3 +67,13 @@ M_E_7 = "<b>1 ➽ Ero Manga! H mo Manga mo Step-up♪ \n\n2 ➽ Ero Zemi: Ecchi 
 M_E_8 = "<b>1 ➽ Eroge H mo Game mo Kaihatsu Zanmai\n\n2 ➽ Eromame\n\n3 ➽ Eroriman</b>"
 M_E_9 = "<b>1 ➽ Eroriman 2\n\n2 ➽ Eternity: Shinya no Nurekoi Channel\n\n3 ➽ Etsuraku no Tane The Animation</b>"
 M_E_10 = "<b>1 ➽ Euphoria</b>"
+
+
+M_F_1 = "➥ 𝙼𝚎𝚗𝚞 𝙵 - 𝙿𝚊𝚐𝚎 𝟷"
+M_F_2 = "<b>1 ➽ Fault!!\n\n2 ➽ Fault!! Service: Aratanaru Rival\n\n3 ➽ Fechikano!</b>"
+M_F_3 = "<b>1 ➽ Fella Hame Lips\n\n2 ➽ Fella Pure: Mitarashi-san Chi no Jijou The Animation\n\n3 ➽ Fighting of Ecstasy</b>"
+M_F_4 = "<b>1 ➽ First Love\n\n2 ➽ Floating Material\n\n3 ➽ Front Innocent: Mou Hitotsu no Lady Innocent</b>"
+M_F_5 = "<b>1 ➽ Fukai ni Nemuru Oujo no Abaddon\n\n2 ➽ Fukubiki! Triangle: Futaba wa Atafuta\n\n3 ➽ Fukubiki! Triangle: Miharu After</b>"
+M_F_6 = "<b>1 ➽ Furifure The Animation\n\n2 ➽ Furifure 2\n\n3 ➽ Furueru Kuchibiru</b>"
+M_F_7 = "<b>1 ➽ Furyou ni Hamerarete Jusei Suru Kyonyuu Okaasan The Animation\n\n2 ➽ Futabu!\n\n3 ➽ Futabu!! 2</b>"
+M_F_8 = "<b>1 ➽ Futabu! Mix: Futanari World\n\n2 ➽ Futago no Haha Seihonnou\n\n3 ➽ Fuurinkanzan</b>"
