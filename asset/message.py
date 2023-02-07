@@ -77,3 +77,14 @@ M_F_5 = "<b>1 ➽ Fukai ni Nemuru Oujo no Abaddon\n\n2 ➽ Fukubiki! Triangle: F
 M_F_6 = "<b>1 ➽ Furifure The Animation\n\n2 ➽ Furifure 2\n\n3 ➽ Furueru Kuchibiru</b>"
 M_F_7 = "<b>1 ➽ Furyou ni Hamerarete Jusei Suru Kyonyuu Okaasan The Animation\n\n2 ➽ Futabu!\n\n3 ➽ Futabu!! 2</b>"
 M_F_8 = "<b>1 ➽ Futabu! Mix: Futanari World\n\n2 ➽ Futago no Haha Seihonnou\n\n3 ➽ Fuurinkanzan</b>"
+
+
+
+M_G_1 = "➥ 𝙼𝚎𝚗𝚞 𝙶 - 𝙿𝚊𝚐𝚎 𝟷"
+M_G_2 = "<b>1 ➽ Gaki ni Modotte Yarinaoshi\n\n2 ➽ Gakuen 3\n\n3 ➽ Gakuen de Jikan yo Tomare</b>
+M_G_3 = "<b>1 ➽ Gakuen no Ikenie: Nagusami Mono to Kashita Kyonyuu Furyou Shoujo\n\n2 ➽ Gakuen no Shuryousha [Wicked Lessons]\n\n3 ➽ Gakuen Saimin Reido</b>
+M_G_4 = "<b>1 ➽ Gakuen Shinshoku: XX of the Dead\n\n2 ➽ Garden\n\n3 ➽ Garden: Takamine-ke no Nirinka – The Animation</b>
+M_G_5 = "<b>1 ➽ Gekka Bijin\n\n2 ➽ Genkaku Cool na Sensei ga Aheboteochi!\n\n3 ➽ Genmukan</b>
+M_G_6 = "<b>1 ➽ Gibo no Toiki : Haitoku Kokoro ni Tadayou Haha no Iroka\n\n2 ➽ Gibomai\n\n3 ➽ Girls Rush The Animation</b>
+M_G_7 = "<b>1 ➽ Gishi wa Yan Mama Junyuu Chuu\n\n2 ➽ Gitai Saimin\n\n3 ➽ Gogo no Kouchou: Junai Mellow yori</b>
+M_G_8 = "<b>1 ➽ Green Eyes: Ane Kyun! yori The Animation\n\n2 ➽ Gyakuten Majo Saiban</b>
