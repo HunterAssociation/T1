@@ -21,7 +21,7 @@ M_A_15 = "<b>1 ➽ Ano Danchi no Tsuma-tachi wa… The Animation\n\n2 ➽ Ano Ko
 M_A_16 = "<b>1 ➽ Araiya-san!: Ore to Aitsu ga Onnayu de!?\n\n2 ➽ Ayatsuri Haramase Dream Note</b>"
 
 
-M_B_1 = "<b>➥ 𝙼𝚎𝚗𝚞 𝙱 - 𝙿𝚊𝚐𝚎 𝟷</b>"
+M_B_1 = "➥ 𝙼𝚎𝚗𝚞 𝙱 - 𝙿𝚊𝚐𝚎 𝟷"
 M_B_2 = "<b>1 ➽ BaBuKa: Gokudou no Tsuma\n\n2 ➽ Baka Dakedo Chinchin Shaburu no Dake wa Jouzu na Chii-chan\n\n3 ➽ Baka na Imouto wo Rikou ni Suru no wa Ore no XX Dake na Ken ni Tsuite</b>"
 M_B_3 = "<b>1 ➽ Baku Ane: Otouto Shibocchau zo! The Animation\n\n2 ➽ Baku Ane 2: Otouto Ippai Shibocchau zo! The Animation\n\n3 ➽ Betsu ni Anta no Tame ni Ookiku Nattan Janain Dakara ne!!</b>"
 M_B_4 = "<b>1 ➽ Bi-chiku Beach: Nangoku Nyuujoku Satsueikai\n\n2 ➽ Bible Black\n\n3 ➽ Bible Black Gaiden</b>"
@@ -31,6 +31,6 @@ M_B_7 = "<b>1 ➽ Bitch na Inane-sama\n\n2 ➽ Black Gate: Kanin no Gakuen\n\n3 
 M_B_8 = "<b>1 ➽ Boku Dake no Hentai Kanojo The Animation\n\n2 ➽ Boku ni Sexfriend ga Dekita Riyuu\n\n3 ➽ Boku no Pico</b>"
 M_B_9 = "<b>1 ➽ Boku no Yayoi-san\n\n2 ➽ Boku no Yayoi-san 2\n\n3 ➽ Boku to Joi no Shinsatsu Nisshi</b>"
 M_B_10 = "<b>1 ➽ Boku to Misaki-sensei\n\n2 ➽ Boku to Nurse no Kenshuu Nisshi\n\n3 ➽ Boku to Sensei to Tomodachi no Mama</b>"
-M_B_11 = "<b>➥ 𝙼𝚎𝚗𝚞 𝙱 - 𝙿𝚊𝚐𝚎 𝟸</b>"
+M_B_11 = "➥ 𝙼𝚎𝚗𝚞 𝙱 - 𝙿𝚊𝚐𝚎 𝟸"
 M_B_12 = "<b>1 ➽ Brandish\n\n2 ➽ Busou Shoujotai: Blade Briders The Animation\n\n3 ➽ Bust to Bust: Chichi wa Chichi ni</b>"
-M_B_12 = "<b>1 ➽ Buta Himesama\n\n2 ➽ Buta no Gotoki Sanzoku ni Torawarete Shojo wo Ubawareru Kyonyuu Himekishi & Onna Senshi</b>"
+M_B_13 = "<b>1 ➽ Buta Himesama\n\n2 ➽ Buta no Gotoki Sanzoku ni Torawarete Shojo wo Ubawareru Kyonyuu Himekishi & Onna Senshi</b>"
