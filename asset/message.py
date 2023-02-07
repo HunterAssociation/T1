@@ -47,3 +47,11 @@ M_C_8 = "<b>1 ➽ Chu Shite Agechau: Oshikake Oneesan no Seikou Chiryou\n\n2 ➽
 M_C_9 = "<b>1 ➽ Colosseum no Senki: Another Story\n\n2 ➽ Cosplay Change: Pure-kei Joshidaisei no Kiken na Seiheki\n\n3 ➽ Cosplay Rakuen</b>"
 M_C_10 = "<b>1 ➽ Cosplay Roshutsu Kenkyuukai\n\n2 ➽ Creamy Pie\n\n3 ➽ Crimson Girls: Chikan Shihai</b>"
 
+M_D_1 = "➥ 𝙼𝚎𝚗𝚞 𝙳 - 𝙿𝚊𝚐𝚎 𝟷"
+M_D_2 = "<b>1 ➽ D-Spray\n\n2 ➽ Daiakuji: The Xena Buster\n\n3 ➽ Dainiji Ura Nyuugakushiken The Animation</b>"
+M_D_3 = "<b>1 ➽ Daisuki na Haha\n\n2 ➽ Daraku Reijou The Animation\n\n3 ➽ Dark Blue</b>"
+M_D_4 = "<b>1 ➽ Dekakute Ecchi na Ore no Ane\n\n2 ➽ Delivery Chinko o Tanomitai Onee-san\n\n3 ➽ Demon Busters: Ecchi na Ecchi na Demon Taiji</b>"
+M_D_5 = "<b>1 ➽ Demonion: Gaiden\n\n2 ➽ Diabolus: Kikoku\n\n3 ➽ Discipline</b>"
+M_D_6 = "<b>1 ➽ Discipline Zero\n\n2 ➽ Do S na Seitokaichou-sama ga M Note ni Shihai Saremashita\n\n3 ➽ Dokidoki Little Ooyasan</b>"
+M_D_7 = "<b>1 ➽ DokiDoki Oyako Lesson: Oshiete H na Obenkyou\n\n2 ➽ Donburi Kazoku [Like Mother Like Daughter]\n\n3 ➽ Dorei Maid Princess</b>"
+M_D_8 = "<b>1 ➽ Dorei Usagi to Anthony The Animation\n\n2 ➽ Doukyuusei Remake The Animation\n\n3 ➽ Dropout</b>"
