@@ -55,3 +55,15 @@ M_D_5 = "<b>1 ➽ Demonion: Gaiden\n\n2 ➽ Diabolus: Kikoku\n\n3 ➽ Discipline
 M_D_6 = "<b>1 ➽ Discipline Zero\n\n2 ➽ Do S na Seitokaichou-sama ga M Note ni Shihai Saremashita\n\n3 ➽ Dokidoki Little Ooyasan</b>"
 M_D_7 = "<b>1 ➽ DokiDoki Oyako Lesson: Oshiete H na Obenkyou\n\n2 ➽ Donburi Kazoku [Like Mother Like Daughter]\n\n3 ➽ Dorei Maid Princess</b>"
 M_D_8 = "<b>1 ➽ Dorei Usagi to Anthony The Animation\n\n2 ➽ Doukyuusei Remake The Animation\n\n3 ➽ Dropout</b>"
+
+
+M_E_1 = "➥ 𝙼𝚎𝚗𝚞 𝙴 - 𝙿𝚊𝚐𝚎 𝟷"
+M_E_2 = "<b>1 ➽ Ecchi na Onee-chan ni Shiboraretai\n\n2 ➽ Ecchi na Shintai Sokutei Anime Edition\n\n3 ➽ Eisai Kyoiku</b>"
+M_E_3 = "<b>1 ➽ Elf Hime Nina\n\n2 ➽ Elf no Futagohime: Willan to Arsura\n\n3 ➽ Elf no Oshiego to Sensei</b>"
+M_E_4 = "<b>1 ➽ Enbi\n\n2 ➽ Enbo (Taboo Charming Mother)\n\n3 ➽ Energy Kyouka!</b>"
+M_E_5 = "<b>1 ➽ Enjo Kouhai\n\n2 ➽ Enkou JK Bitch Gal: Ojisan to Namapako Seikatsu\n\n3 ➽ Enkou Shoujo: Rikujoubu Yukki no Baai The Animation</b>"
+M_E_6 = "<b>1 ➽ Enyoku\n\n2 ➽ Ero Ishi: Seijun Bishoujo wo Kotoba Takumi ni Hametai Houdai\n\n3 ➽ Ero Konbini Tenchou</b>"
+M_E_7 = "<b>1 ➽ Ero Manga! H mo Manga mo Step-up♪ \n\n2 ➽ Ero Zemi: Ecchi ni Yaruki ni ABC\n\n3 ➽ Eroge de Subete wa Kaiketsu Dekiru! The Animation</b>"
+M_E_8 = "<b>1 ➽ Eroge H mo Game mo Kaihatsu Zanmai\n\n2 ➽ Eromame\n\n3 ➽ Eroriman</b>"
+M_E_9 = "<b>1 ➽ Eroriman 2\n\n2 ➽ Eternity: Shinya no Nurekoi Channel\n\n3 ➽ Etsuraku no Tane The Animation</b>"
+M_E_10 = "<b>1 ➽ Euphoria</b>"
