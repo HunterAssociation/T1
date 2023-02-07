@@ -129,3 +129,16 @@ M_I_14 = "<b>1 ➽ Inmou The Animation\n\n2 ➽ Inshitsu Otaku ni Ikareru Kanojo
 M_I_15 = "<b>1 ➽ Inyouchuu Etsu\n\n2 ➽ Inyouchuu Shoku: Harami Ochiru Shoujo-tachi\n\n3 ➽ Inyutsu no Yakata The Animation</b>"
 M_I_16 = "<b>1 ➽ Isekai Harem Monogatari\n\n2 ➽ Isekai Kita node Sukebe Skill de Zenryoku Ouka Shiyou to Omou The Animation\n\n3 ➽ Isekai Yarisaa</b>"
 M_I_17 = "<b>1 ➽ Issho ni H Shiyo\n\n2 ➽ Itadaki! Seieki ♥\n\n3 ➽ Iyashite Agerun Saiyuuki</b>"
+
+
+
+M_J_1 = "➥ 𝙼𝚎𝚗𝚞 𝙹 - 𝙿𝚊𝚐𝚎 𝟷"
+M_J_2 = "<b>1 ➽ Jashin Shoukan: Inran Kyonyuu Oyako Ikenie Gishiki\n\n2 ➽ Jewelry The Animation\n\n3 ➽ Jimihen!!: Jimiko wo Kaechau Jun Isei Kouyuu!!</b>"
+M_J_3 = "<b>1 ➽ Jinkou Shoujo: Henshin Sex Android\n\n2 ➽ Jitaku Keibiin\n\n3 ➽ Jitaku Keibiin (2019)</b>"
+M_J_4 = "<b>1 ➽ Jitaku Keibiin 2\n\n2 ➽ JK Bitch ni Shiboraretai\n\n3 ➽ JK Fuuzoku Gakuensai</b>"
+M_J_5 = "<b>1 ➽ JK Genkai Koubi: Goui Sounyuu de Bachibachi Niku Anaka\n\n2 ➽ JK to Ero Giin Sensei\n\n3 ➽ JK to Ero Konbini Tenchou</b>"
+M_J_6 = "<b>1 ➽ JK to Inkou Kyoushi 4\n\n2 ➽ JK to Inkou Kyoushi 4 feat. Ero Giin Sensei Namaiki Hamedoru Friends\n\n3 ➽ JK to Orc Heidan: Aku Buta Oni ni Ryougyaku Sareta Seijo Gakuen</b>"
+M_J_7 = "<b>1 ➽ Jokei Kazoku III: Himitsu\n\n2 ➽ Joou-sama wa M Dorei\n\n3 ➽ Joshi Luck!</b>"
+M_J_8 = "<b>1 ➽ Joshi Ochi!: 2-kai kara Onnanoko ga Futte Kita!?\n\n2 ➽ Joshikousei no Koshitsuki\n\n3 ➽ Jukujo Shigan</b>"
+M_J_9 = "<b>1 ➽ Junai Maniac\n\n2 ➽ Junjou Shoujo Et Cetera\n\n3 ➽ Junk Land The Animation</b>"
+M_J_10 = "<b>1 ➽ Jutaijima\n\n2 ➽ Juvenile Pornography The Animation</b>"
