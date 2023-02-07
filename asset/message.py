@@ -109,3 +109,23 @@ M_H_17 = "<b>1 ➽ Honoo no Haramase Oppai: Ero Appli Gakuen The Animation\n\n2 
 M_H_18 = "<b>1 ➽ Houkago 2: Saiyuri\n\n2 ➽ Houkago Initiation\n\n3 ➽ Houkago no Yuutousei</b>"
 M_H_19 = "<b>1 ➽ Houkago: Nureta Seifuku (After Class Lesson)\n\n2 ➽ Hump Bang\n\n3 ➽ Hyakkiya Tantei Jimusho: Hyakkiya Hikari no Youkai Jikenbo</b>"
 M_H_20 = "<b>1 ➽ Hyoudou Ibuki: Kanpeki Ibuki Kaichou ga Kousoku Do M!? na Wake</b>"
+
+
+
+M_I_1 = "➥ 𝙼𝚎𝚗𝚞 𝙸 - 𝙿𝚊𝚐𝚎 𝟷"
+M_I_2 = "<b>1 ➽ I☆Can\n\n2 ➽ Ichigo Chocola Flavor\n\n3 ➽ Ichinen Buri no The Animation</b>"
+M_I_3 = "<b>1 ➽ Idol Kouhosei\n\n2 ➽ Idol Kyousei Sousa\n\n3 ➽ Idol☆Sister</b>"
+M_I_4 = "<b>1 ➽ Ienai Koto The Animation\n\n2 ➽ Iinari! Saimin Kanojo\n\n3 ➽ Iinchou wa Saimin Appli o Shinjiteru</b>"
+M_I_5 = "<b>1 ➽ Iizuka-senpai x Blazer: Ane Kyun! Yori The Animation\n\n2 ➽ Ijirare: Fukushuu Saimin\n\n3 ➽ Ijou Chitai: Jikken Dorei</b>"
+M_I_6 = "<b>1 ➽ Ikenai Koto The Animation\n\n2 ➽ Ikkyuu Nyuukon (Only My Oppai Soul)\n\n3 ➽ Ikoku na Retro</b>"
+M_I_7 = "<b>1 ➽ Ikusa Otome Suvia\n\n2 ➽ Ikusa Otome Valkyrie 2\n\n3 ➽ Ikusa Otome Valkyrie G</b>"
+M_I_8 = "<b>1 ➽ Ima Made de Ichiban Yokatta Sex\n\n2 ➽ Imaizumin Chi wa Douyara Gal no Tamariba ni Natteru Rashii\n\n3 ➽ Imakara Atashi……</b>"
+M_I_9 = "<b>1 ➽ Imako System\n\n2 ➽ Imouto\n\n3 ➽ Imouto Bitch ni Shiboraretai</b>"
+M_I_10 = "<b>1 ➽ Imouto Paradise!\n\n2 ➽ Imouto Paradise! 2\n\n3 ➽ Imouto Paradise! 3</b>"
+M_I_11 = "➥ 𝙼𝚎𝚗𝚞 𝙸 - 𝙿𝚊𝚐𝚎 𝟸"
+M_I_12 = "<b>1 ➽ Imouto to Sono Yuujin ga Ero Sugite Ore no Kokan ga Yabai\n\n2 ➽ Imouto Twins\n\n3 ➽ Implicity</b>"
+M_I_13 = "<b>1 ➽ Inbo [The Sleazy Family]\n\n2 ➽ Ingoku Byoutou\n\n3 ➽ Inkou Kyoushi no Saimin Seikatsu Shidouroku</b>"
+M_I_14 = "<b>1 ➽ Inmou The Animation\n\n2 ➽ Inshitsu Otaku ni Ikareru Kanojo\n\n3 ➽ Inyoku Tokkyuu Zetsurinou</b>"
+M_I_15 = "<b>1 ➽ Inyouchuu Etsu\n\n2 ➽ Inyouchuu Shoku: Harami Ochiru Shoujo-tachi\n\n3 ➽ Inyutsu no Yakata The Animation</b>"
+M_I_16 = "<b>1 ➽ Isekai Harem Monogatari\n\n2 ➽ Isekai Kita node Sukebe Skill de Zenryoku Ouka Shiyou to Omou The Animation\n\n3 ➽ Isekai Yarisaa</b>"
+M_I_17 = "<b>1 ➽ Issho ni H Shiyo\n\n2 ➽ Itadaki! Seieki ♥\n\n3 ➽ Iyashite Agerun Saiyuuki</b>"
