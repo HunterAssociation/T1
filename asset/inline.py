@@ -32,7 +32,7 @@ I_ZERO_3 = InlineKeyboardMarkup().add(
 
 
 K_A_1 = ReplyKeyboardMarkup(resize_keyboard=True).add(
-    KeyboardButton("𝙼𝚎𝚗𝚞 𝙰 - 𝙿𝚊𝚐𝚎 𝟸")).add(
+    KeyboardButton("𝙰 - 𝙿𝚊𝚐𝚎 𝟸")).add(
     KeyboardButton("𝗞𝗘𝗠𝗕𝗔𝗟𝗜"),
     KeyboardButton("𝗕𝗘𝗥𝗔𝗡𝗗𝗔"))
 I_A_2 = InlineKeyboardMarkup().add(
@@ -93,54 +93,49 @@ I_A_16 = InlineKeyboardMarkup().add(
 
 
 K_B_1 = ReplyKeyboardMarkup(resize_keyboard=True).add(
-    KeyboardButton("𝙼𝚎𝚗𝚞 𝙰 - 𝙿𝚊𝚐𝚎 𝟸")).add(
+    KeyboardButton("𝙱 - 𝙿𝚊𝚐𝚎 𝟸")).add(
     KeyboardButton("𝗞𝗘𝗠𝗕𝗔𝗟𝗜"),
     KeyboardButton("𝗕𝗘𝗥𝗔𝗡𝗗𝗔"))
 I_B_2 = InlineKeyboardMarkup().add(
-    InlineKeyboardButton("1", url="ASS"),
-    InlineKeyboardButton("2", url="ASAD"),
-    InlineKeyboardButton("3", url="AAD"))
+    InlineKeyboardButton("1", url="https://t.me/+ekvM-W6GgzZiM2Zl"),
+    InlineKeyboardButton("2", url="https://t.me/+soK_mSdgYW4zN2U9"),
+    InlineKeyboardButton("3", url="https://t.me/+8HWPubewN9VlNjc9"))
 I_B_3 = InlineKeyboardMarkup().add(
-    InlineKeyboardButton("1", url="ASS"),
-    InlineKeyboardButton("2", url="ASAD"),
-    InlineKeyboardButton("3", url="AAD"))
+    InlineKeyboardButton("1", url="https://t.me/+x6lYczG8GR81ZGVl"),
+    InlineKeyboardButton("2", url="https://t.me/+VVBYP64YeWQ5MGE9"),
+    InlineKeyboardButton("3", url="https://t.me/+FkW5i2TwN8Y5ZTI1"))
 I_B_4 = InlineKeyboardMarkup().add(
-    InlineKeyboardButton("1", url="ASS"),
-    InlineKeyboardButton("2", url="ASAD"),
-    InlineKeyboardButton("3", url="AAD"))
+    InlineKeyboardButton("1", url="https://t.me/+4qquzBMZDQdmZWRl"),
+    InlineKeyboardButton("2", url="https://t.me/+pP-oUfDo8otiZjI1"),
+    InlineKeyboardButton("3", url="https://t.me/+OEiFf266q7A1ODRl"))
 I_B_5 = InlineKeyboardMarkup().add(
-    InlineKeyboardButton("1", url="ASS"),
-    InlineKeyboardButton("2", url="ASAD"),
-    InlineKeyboardButton("3", url="AAD"))
+    InlineKeyboardButton("1", url="https://t.me/+1UWSKvUCakExYjQ1"),
+    InlineKeyboardButton("2", url="https://t.me/+vrqPInQKOlE3MTQ9"),
+    InlineKeyboardButton("3", url="https://t.me/+sEsYo8VztDQ0MWI1"))
 I_B_6 = InlineKeyboardMarkup().add(
-    InlineKeyboardButton("1", url="ASS"),
-    InlineKeyboardButton("2", url="ASAD"),
-    InlineKeyboardButton("3", url="AAD"))
+    InlineKeyboardButton("1", url="https://t.me/+x1E-add5NB44YWVl"),
+    InlineKeyboardButton("2", url="https://t.me/+qafbEdQfPIViZDc9"),
+    InlineKeyboardButton("3", url="https://t.me/+VeG7FauNZYlkMTY9"))
 I_B_7 = InlineKeyboardMarkup().add(
-    InlineKeyboardButton("1", url="ASS"),
-    InlineKeyboardButton("2", url="ASAD"),
-    InlineKeyboardButton("3", url="AAD"))
+    InlineKeyboardButton("1", url="https://t.me/+6ARdZquk3bY5OWE1"),
+    InlineKeyboardButton("2", url="https://t.me/+0JpoMdwcROQ2N2U1"),
+    InlineKeyboardButton("3", url="https://t.me/+b0F2qLaEYClmMWQ9"))
 I_B_8 = InlineKeyboardMarkup().add(
-    InlineKeyboardButton("1", url="ASS"),
-    InlineKeyboardButton("2", url="ASAD"),
-    InlineKeyboardButton("3", url="AAD"))
+    InlineKeyboardButton("1", url="https://t.me/+qyBsmk-fBSJkNTY1"),
+    InlineKeyboardButton("2", url="https://t.me/+e4Gl-wkwEE1iNjZl"),
+    InlineKeyboardButton("3", url="https://t.me/+Ip49Ik7R0V9lMzhl"))
 I_B_9 = InlineKeyboardMarkup().add(
-    InlineKeyboardButton("1", url="ASS"),
-    InlineKeyboardButton("2", url="ASAD"),
-    InlineKeyboardButton("3", url="AAD"))
+    InlineKeyboardButton("1", url="https://t.me/+37C8KmU2nkEyM2E1"),
+    InlineKeyboardButton("2", url="https://t.me/+A-M77YhielZiZTJl"),
+    InlineKeyboardButton("3", url="https://t.me/+j-SgFrLNVqIxZjA1"))
 I_B_10 = InlineKeyboardMarkup().add(
-    InlineKeyboardButton("1", url="ASS"),
-    InlineKeyboardButton("2", url="ASAD"),
-    InlineKeyboardButton("3", url="AAD"))
+    InlineKeyboardButton("1", url="https://t.me/+1YDm4yu_TgYxODc9"),
+    InlineKeyboardButton("2", url="https://t.me/+JjtMLQhbCjY5NmI1"),
+    InlineKeyboardButton("3", url="https://t.me/+FLDr6arsycAzYjRl"))
 I_B_12 = InlineKeyboardMarkup().add(
-    InlineKeyboardButton("1", url="ASS"),
-    InlineKeyboardButton("2", url="ASAD"),
-    InlineKeyboardButton("3", url="AAD"))
+    InlineKeyboardButton("1", url="https://t.me/+XlDGsTURt_04ODZl"),
+    InlineKeyboardButton("2", url="https://t.me/+fTHtag_83ewwZWY1"),
+    InlineKeyboardButton("3", url="https://t.me/+9wFXHSVxmygyZjU1"))
 I_B_13 = InlineKeyboardMarkup().add(
-    InlineKeyboardButton("1", url="ASS"),
-    InlineKeyboardButton("2", url="ASAD"),
-    InlineKeyboardButton("3", url="AAD"))
-I_B_14 = InlineKeyboardMarkup().add(
-    InlineKeyboardButton("1", url="ASS"),
-    InlineKeyboardButton("2", url="ASAD"),
-    InlineKeyboardButton("3", url="AAD"))
+    InlineKeyboardButton("1", url="https://t.me/+G6l3oUiZP_ZhYTE1"),
+    InlineKeyboardButton("2", url="https://t.me/+QBi9P0kel4NjMGY1"))
