@@ -243,3 +243,34 @@ I_E_9 = InlineKeyboardMarkup().add(
     InlineKeyboardButton("3", url="https://t.me/+BatNfIT0nrozOTJl"))
 I_E_10 = InlineKeyboardMarkup().add(
     InlineKeyboardButton("1", url="https://t.me/+e4v3rdRD7tU0NGFl"))
+
+
+
+I_F_2 = InlineKeyboardMarkup().add(
+    InlineKeyboardButton("1", url="https://t.me/+-5NamLFXkVRkYzM1"),
+    InlineKeyboardButton("2", url="https://t.me/+qvddNUmnuakzMGU1"),
+    InlineKeyboardButton("3", url="https://t.me/+QJsErJdnGEE0YWU1"))
+I_F_3 = InlineKeyboardMarkup().add(
+    InlineKeyboardButton("1", url="https://t.me/+EuAaX2NK6QhjZDZl"),
+    InlineKeyboardButton("2", url="https://t.me/+zFDIeBqNc6ZjODE9"),
+    InlineKeyboardButton("3", url="https://t.me/+bDPHUxy9AZdhNDg1"))
+I_F_4 = InlineKeyboardMarkup().add(
+    InlineKeyboardButton("1", url="https://t.me/+EQNKOh92_zFkY2E9"),
+    InlineKeyboardButton("2", url="https://t.me/+nHXCFBuGKco3ZTA9"),
+    InlineKeyboardButton("3", url="https://t.me/+h-ye_ze8rDU4ZDE1"))
+I_F_5 = InlineKeyboardMarkup().add(
+    InlineKeyboardButton("1", url="https://t.me/+PVHrvC_04cAzYTU1"),
+    InlineKeyboardButton("2", url="https://t.me/+H6vH9UE9cqRhMTY1"),
+    InlineKeyboardButton("3", url="https://t.me/+4iS3KoNwRJ8xYmU9"))
+I_F_6 = InlineKeyboardMarkup().add(
+    InlineKeyboardButton("1", url="https://t.me/+PPrvd1fihoVmYjA1"),
+    InlineKeyboardButton("2", url="https://t.me/+XeGURozgSgQwY2Q9"),
+    InlineKeyboardButton("3", url="https://t.me/+Rd85M7y1d6hjNjFl"))
+I_F_7 = InlineKeyboardMarkup().add(
+    InlineKeyboardButton("1", url="https://t.me/+A0CXLgEu6U00NTQ1"),
+    InlineKeyboardButton("2", url="https://t.me/+TMePVE_7vb9lYTI1"),
+    InlineKeyboardButton("3", url="https://t.me/+9flxSnv3usplMGFl"))
+I_F_8 = InlineKeyboardMarkup().add(
+    InlineKeyboardButton("1", url="https://t.me/+2SA_b47qFRAxOTQ1"),
+    InlineKeyboardButton("2", url="https://t.me/+FPFasyYqnJc1MzZl"),
+    InlineKeyboardButton("3", url="https://t.me/+dq-NJACtoco5MTVl"))
