@@ -238,6 +238,38 @@ async def MENU_D(m:Message):
     await D6.delete()
     await D7.delete()
     await D8.delete()
+    
+    
+    
+    
+    
+###########################################
+#               M E N U - E               #
+###########################################
+@aio.message_handler(lambda message : message.text == 'ᴇ',state='*')
+async def MENU_E(m:Message):
+    E1 = await bot.send_message(m.chat.id, text=message.M_E_1, reply_markup=inline.K_END)
+    E2 = await bot.send_photo(m.chat.id, photo="https://telegra.ph/file/283a90ebe144fa568b25c.jpg", caption=message.M_E_2, parse_mode="html", reply_markup=inline.I_E_2)
+    E3 = await bot.send_photo(m.chat.id, photo="https://telegra.ph/file/a92440526f7f30f9198a9.jpg", caption=message.M_E_3, parse_mode="html", reply_markup=inline.I_E_3)
+    E4 = await bot.send_photo(m.chat.id, photo="https://telegra.ph/file/b1e7761f59808134da46e.jpg", caption=message.M_E_4, parse_mode="html", reply_markup=inline.I_E_4)
+    E5 = await bot.send_photo(m.chat.id, photo="https://telegra.ph/file/8031ef508f14f93011456.jpg", caption=message.M_E_5, parse_mode="html", reply_markup=inline.I_E_5)
+    E6 = await bot.send_photo(m.chat.id, photo="https://telegra.ph/file/33ae609a575bafd8d24f1.jpg", caption=message.M_E_6, parse_mode="html", reply_markup=inline.I_E_6)
+    E7 = await bot.send_photo(m.chat.id, photo="https://telegra.ph/file/f9c484af2b6b8f4df7388.jpg", caption=message.M_E_7, parse_mode="html", reply_markup=inline.I_E_7)
+    E8 = await bot.send_photo(m.chat.id, photo="https://telegra.ph/file/a28537eecbe6e0a06fd99.jpg", caption=message.M_E_8, parse_mode="html", reply_markup=inline.I_E_8)
+    E9 = await bot.send_photo(m.chat.id, photo="https://telegra.ph/file/d27561a31fce73a910a7f.jpg", caption=message.M_E_9, parse_mode="html", reply_markup=inline.I_E_9)
+    E10 = await bot.send_photo(m.chat.id, photo="https://telegra.ph/file/3cd195abc6a14054cadf6.jpg", caption=message.M_E_10, parse_mode="html", reply_markup=inline.I_E_10)
+    await asyncio.sleep(300)
+    await m.delete()
+    await E1.delete()
+    await E2.delete()
+    await E3.delete()
+    await E4.delete()
+    await E5.delete()
+    await E6.delete()
+    await E7.delete()
+    await E8.delete()
+    await E9.delete()
+    await E10.delete()
 
 
 
