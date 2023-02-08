@@ -182,17 +182,17 @@ M_X_2 = "<b>1 ➽ XL Joushi<b>"
 
 
 M_Y_1 = "➥ 𝙼𝚎𝚗𝚞 𝚈 - 𝙿𝚊𝚐𝚎 𝟷"
-M_Y_2 = "<b>1 ➽ Yabai! Fukushuu Yami Site\n\n2 ➽ Yakata Jukujo\n\n3 ➽ Yakata: Kannou Kitan<b>"
-M_Y_3 = "<b>1 ➽ Yama Hime no Mi\n\n2 ➽ Yamitsuki Mura: Melty Limit The Animation\n\n3 ➽ Yamitsuki Pheromone The Animation<b>"
-M_Y_4 = "<b>1 ➽ Yareruko! Densha Ecchi (Bangable Girl)\n\n2 ➽ Yarichin Kateikyoushi Netori Houkoku\n\n3 ➽ Yarima Queen<b>"
-M_Y_5 = "<b>1 ➽ Yariman Fudousan\n\n2 ➽ Yarimoku Beach ni Shuugakuryokou de!! The Animation\n\n3 ➽ Yobai Suru Shichinin no Harame<b>"
-M_Y_6 = "<b>1 ➽ Yokorenbo: Immoral Mother\n\n2 ➽ Yokujou Bazooka The Animation\n\n3 ➽ Youkoso! Sukebe Elf no Mori e<b>"
-M_Y_7 = "<b>1 ➽ Youma Shoukan e Youkoso\n\n2 ➽ Yubisaki kara no Honki no Netsujou: Osananajimi wa Shouboushi\n\n3 ➽ Yubisaki kara Honki no Netsujou 2: Koibito wa Shouboushi<b>"
-M_Y_8 = "<b>1 ➽ Yue ni Hitozuma wa Netorareta\n\n2 ➽ Yukiyo Ichiya Monogatari (Snow Night Stories)\n\n3 ➽ Yume Kui: Tsurumiku Shiki Game Seisaku<b>"
-M_Y_9 = "<b>1 ➽ Yuutousei Ayaka no Uraomote<b>"
+M_Y_2 = "<b>1 ➽ Yabai! Fukushuu Yami Site\n\n2 ➽ Yakata Jukujo\n\n3 ➽ Yakata: Kannou Kitan</b>"
+M_Y_3 = "<b>1 ➽ Yama Hime no Mi\n\n2 ➽ Yamitsuki Mura: Melty Limit The Animation\n\n3 ➽ Yamitsuki Pheromone The Animation</b>"
+M_Y_4 = "<b>1 ➽ Yareruko! Densha Ecchi (Bangable Girl)\n\n2 ➽ Yarichin Kateikyoushi Netori Houkoku\n\n3 ➽ Yarima Queen</b>"
+M_Y_5 = "<b>1 ➽ Yariman Fudousan\n\n2 ➽ Yarimoku Beach ni Shuugakuryokou de!! The Animation\n\n3 ➽ Yobai Suru Shichinin no Harame</b>"
+M_Y_6 = "<b>1 ➽ Yokorenbo: Immoral Mother\n\n2 ➽ Yokujou Bazooka The Animation\n\n3 ➽ Youkoso! Sukebe Elf no Mori e</b>"
+M_Y_7 = "<b>1 ➽ Youma Shoukan e Youkoso\n\n2 ➽ Yubisaki kara no Honki no Netsujou: Osananajimi wa Shouboushi\n\n3 ➽ Yubisaki kara Honki no Netsujou 2: Koibito wa Shouboushi</b>"
+M_Y_8 = "<b>1 ➽ Yue ni Hitozuma wa Netorareta\n\n2 ➽ Yukiyo Ichiya Monogatari (Snow Night Stories)\n\n3 ➽ Yume Kui: Tsurumiku Shiki Game Seisaku</b>"
+M_Y_9 = "<b>1 ➽ Yuutousei Ayaka no Uraomote</b>"
 
 
 
 M_Z_1 = "➥ 𝙼𝚎𝚗𝚞 𝚉 - 𝙿𝚊𝚐𝚎 𝟷"
-M_Z_2 = "<b>1 ➽ Zecchou Rocket\n\n2 ➽ Zettai Junshu☆Kyousei Kozukuri Kyokashou!!\n\n3 ➽ Zoku Oujo & Onna Kishi W Do Gehin Roshutsu<b>"
-M_Z_3 = "<b>1 ➽ Zoku Tsuma Netori\n\n2 ➽ Zton Jingai Animation: A Beautiful Greed Nulu Nulu\n\n3 ➽ Zutto Suki Datta<b>"
+M_Z_2 = "<b>1 ➽ Zecchou Rocket\n\n2 ➽ Zettai Junshu☆Kyousei Kozukuri Kyokashou!!\n\n3 ➽ Zoku Oujo & Onna Kishi W Do Gehin Roshutsu</b>"
+M_Z_3 = "<b>1 ➽ Zoku Tsuma Netori\n\n2 ➽ Zton Jingai Animation: A Beautiful Greed Nulu Nulu\n\n3 ➽ Zutto Suki Datta</b>"
