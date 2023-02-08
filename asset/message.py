@@ -152,3 +152,11 @@ M_P_4 = "<b>1 ➽ Papa Katsu!\n\n2 ➽ Papa Love: Papa to Icha Ero Shitai Musume
 M_P_5 = "<b>1 ➽ Pet Life\n\n2 ➽ Pinkerton\n\n3 ➽ Pisu Hame!</b>"
 M_P_6 = "<b>1 ➽ Please Rape Me!\n\n2 ➽ Pretty x Cation\n\n3 ➽ Pretty x Cation 2 The Animation</b>"
 M_P_7 = "<b>1 ➽ Princess Knight☆Catue\n\n2 ➽ Princess Lover OVA</b>"
+
+
+
+M_U_1 = "➥ 𝙼𝚎𝚗𝚞 𝚄 - 𝙿𝚊𝚐𝚎 𝟷"
+M_U_2 = "<b>1 ➽ Uba\n\n2 ➽ Uchi no Otouto Maji de Dekain Dakedo Mi ni Konai?\n\n3 ➽ Uchuu Kaizoku Sara</b>"
+M_U_3 = "<b>1 ➽ Uhou Renka\n\n2 ➽ Unsweet: Netorare Ochita Onna-tachi\n\n3 ➽ Ura Jutaijima</b>"
+M_U_4 = "<b>1 ➽ Usamimi Bouken-tan: Sekuhara Shinagara Sekai o Sukue\n\n2 ➽ Ushichichi Tabehoudai! The Animation\n\n3 ➽ Uwaki to Honki The Animation</b>"
+
