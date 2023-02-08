@@ -529,27 +529,38 @@ I_U_4 = InlineKeyboardMarkup().add(
 
 
 
-I_P_2 = InlineKeyboardMarkup().add(
+I_V_2 = InlineKeyboardMarkup().add(
+    InlineKeyboardButton("1", url="https://t.me/+43Gz__CpiD1kODI9"),
+    InlineKeyboardButton("2", url="https://t.me/+gOF1gO43McY1YjA9"),
+    InlineKeyboardButton("3", url="https://t.me/+UCXaL4gQspA2YmE1"))
+I_V_3 = InlineKeyboardMarkup().add(
+    InlineKeyboardButton("1", url="https://t.me/+N1Vb6BfRYqUwMTZl"),
+    InlineKeyboardButton("2", url="https://t.me/+VUf6LyhOh-g0ZmFl"),
+    InlineKeyboardButton("3", url="https://t.me/+Sz1gCIL_YdAwMzM9"))
+
+
+
+
+I_W_2 = InlineKeyboardMarkup().add(
+    InlineKeyboardButton("1", url="https://t.me/+qCSYI1jWKTM4OWNl"),
+    InlineKeyboardButton("2", url="https://t.me/+DkxcgE7xeIkyMjNl"),
+    InlineKeyboardButton("3", url="https://t.me/+bJvmDZyALdA4MDg1"))
+I_W_3 = InlineKeyboardMarkup().add(
+    InlineKeyboardButton("1", url="https://t.me/+1kKaQMvcEfA0ODhl"),
+    InlineKeyboardButton("2", url="https://t.me/+Gu3JbU2Bb5FkZGI1"),
+    InlineKeyboardButton("3", url="https://t.me/+3JMu5vn8fn1iYThl"))
+I_W_4 = InlineKeyboardMarkup().add(
+    InlineKeyboardButton("1", url="https://t.me/+dJj04cYCIUphNGY1"),
+    InlineKeyboardButton("2", url="https://t.me/+6xArS5baiSRjNDdl"),
+    InlineKeyboardButton("3", url="https://t.me/+lSeDDBuVlqU3Njk1"))
+I_W_5 = InlineKeyboardMarkup().add(
+    InlineKeyboardButton("1", url="https://t.me/+Zav4vQWNnDpkMjZl"))
+
+
+
+I_W_2 = InlineKeyboardMarkup().add(
     InlineKeyboardButton("1", url="PASTE"),
     InlineKeyboardButton("2", url="PASTE"),
     InlineKeyboardButton("3", url="PASTE"))
-I_P_2 = InlineKeyboardMarkup().add(
-    InlineKeyboardButton("1", url="PASTE"),
-    InlineKeyboardButton("2", url="PASTE"),
-    InlineKeyboardButton("3", url="PASTE"))
-I_P_2 = InlineKeyboardMarkup().add(
-    InlineKeyboardButton("1", url="PASTE"),
-    InlineKeyboardButton("2", url="PASTE"),
-    InlineKeyboardButton("3", url="PASTE"))
-I_P_2 = InlineKeyboardMarkup().add(
-    InlineKeyboardButton("1", url="PASTE"),
-    InlineKeyboardButton("2", url="PASTE"),
-    InlineKeyboardButton("3", url="PASTE"))
-I_P_2 = InlineKeyboardMarkup().add(
-    InlineKeyboardButton("1", url="PASTE"),
-    InlineKeyboardButton("2", url="PASTE"),
-    InlineKeyboardButton("3", url="PASTE"))
-I_P_2 = InlineKeyboardMarkup().add(
-    InlineKeyboardButton("1", url="PASTE"),
-    InlineKeyboardButton("2", url="PASTE"),
-    InlineKeyboardButton("3", url="PASTE"))
+
+
