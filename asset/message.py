@@ -193,3 +193,6 @@ M_Y_9 = "<b>1 ➽ Yuutousei Ayaka no Uraomote<b>"
 
 
 
+M_Z_1 = "➥ 𝙼𝚎𝚗𝚞 𝚉 - 𝙿𝚊𝚐𝚎 𝟷"
+M_Z_2 = "<b>1 ➽ Zecchou Rocket\n\n2 ➽ Zettai Junshu☆Kyousei Kozukuri Kyokashou!!\n\n3 ➽ Zoku Oujo & Onna Kishi W Do Gehin Roshutsu<b>"
+M_Z_3 = "<b>1 ➽ Zoku Tsuma Netori\n\n2 ➽ Zton Jingai Animation: A Beautiful Greed Nulu Nulu\n\n3 ➽ Zutto Suki Datta<b>"
