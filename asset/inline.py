@@ -8,7 +8,7 @@ K_START = ReplyKeyboardMarkup(resize_keyboard=True).add(
     KeyboardButton("𝟮𝗗/𝟯𝗗")
 )
 I_START = InlineKeyboardMarkup().add(
-    InlineKeyboardButton("ᴄʜᴀɴɴᴇʟ ꜱᴜᴘᴘᴏʀᴛ", url="https://t.me/NekopoiSupport/")).add(
+    InlineKeyboardButton("💬 ᴄʜᴀᴛ ʀᴏᴏᴍ 💬", url="https://t.me/NekopoiSupport/")).add(
     InlineKeyboardButton("ʀᴇᴘᴏʀᴛ", url="https://t.me/NekopoiSupport/47"),
     InlineKeyboardButton("ᴅᴏɴᴀᴛᴇ", web_app=WebAppInfo(url="https://telegra.ph/DONATE-ME-02-03"))
 )
