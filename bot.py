@@ -562,7 +562,7 @@ async def MENU_W(m:Message):
 ###########################################
 #               M E N U - X               #
 ###########################################
-@aio.message_handler(lambda message : message.text == 'ᴊ',state='*')
+@aio.message_handler(lambda message : message.text == 'x',state='*')
 async def MENU_X(m:Message):
     X1 = await bot.send_message(m.chat.id, text=message.M_X_1, reply_markup=inline.K_END)
     X2 = await bot.send_photo(m.chat.id, photo="https://telegra.ph/file/f4c72f31fe68579f13b76.jpg", caption=message.M_X_2, parse_mode="html", reply_markup=inline.I_X_2)
