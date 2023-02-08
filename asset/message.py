@@ -142,3 +142,13 @@ M_J_7 = "<b>1 ➽ Jokei Kazoku III: Himitsu\n\n2 ➽ Joou-sama wa M Dorei\n\n3 �
 M_J_8 = "<b>1 ➽ Joshi Ochi!: 2-kai kara Onnanoko ga Futte Kita!?\n\n2 ➽ Joshikousei no Koshitsuki\n\n3 ➽ Jukujo Shigan</b>"
 M_J_9 = "<b>1 ➽ Junai Maniac\n\n2 ➽ Junjou Shoujo Et Cetera\n\n3 ➽ Junk Land The Animation</b>"
 M_J_10 = "<b>1 ➽ Jutaijima\n\n2 ➽ Juvenile Pornography The Animation</b>"
+
+
+
+M_P_1 = "➥ 𝙼𝚎𝚗𝚞 𝙿 - 𝙿𝚊𝚐𝚎 𝟷"
+M_P_2 = "<b>1 ➽ Paizuri Cheerleader vs. Sakunyuu Ouendan!\n\n2 ➽ Pakomane: Watashi, Kyou kara Meimon Yakyuubu no Seishorigakari ni Narimasu\n\n3 ➽ Pandemic</b>"
+M_P_3 = "<b>1 ➽ Pandra The Animation: Shiroki Yokubou Kuro no Kibou\n\n2 ➽ Panty Flash Teacher\n\n3 ➽ Papa datte, Shitai</b>"
+M_P_4 = "<b>1 ➽ Papa Katsu!\n\n2 ➽ Papa Love: Papa to Icha Ero Shitai Musume-tachi\n\n3 ➽ PeroPero☆Teacher</b>"
+M_P_5 = "<b>1 ➽ Pet Life\n\n2 ➽ Pinkerton\n\n3 ➽ Pisu Hame!</b>"
+M_P_6 = "<b>1 ➽ Please Rape Me!\n\n2 ➽ Pretty x Cation\n\n3 ➽ Pretty x Cation 2 The Animation</b>"
+M_P_7 = "<b>1 ➽ Princess Knight☆Catue\n\n2 ➽ Princess Lover OVA</b>"
