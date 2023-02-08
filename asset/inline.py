@@ -564,38 +564,40 @@ I_X_2 = InlineKeyboardMarkup().add(
 
 
 
-I_W_2 = InlineKeyboardMarkup().add(
-    InlineKeyboardButton("1", url="PASTE"),
-    InlineKeyboardButton("2", url="PASTE"),
-    InlineKeyboardButton("3", url="PASTE"))
-I_W_2 = InlineKeyboardMarkup().add(
-    InlineKeyboardButton("1", url="PASTE"),
-    InlineKeyboardButton("2", url="PASTE"),
-    InlineKeyboardButton("3", url="PASTE"))
-I_W_2 = InlineKeyboardMarkup().add(
-    InlineKeyboardButton("1", url="PASTE"),
-    InlineKeyboardButton("2", url="PASTE"),
-    InlineKeyboardButton("3", url="PASTE"))
-I_W_2 = InlineKeyboardMarkup().add(
-    InlineKeyboardButton("1", url="PASTE"),
-    InlineKeyboardButton("2", url="PASTE"),
-    InlineKeyboardButton("3", url="PASTE"))
-I_W_2 = InlineKeyboardMarkup().add(
-    InlineKeyboardButton("1", url="PASTE"),
-    InlineKeyboardButton("2", url="PASTE"),
-    InlineKeyboardButton("3", url="PASTE"))
-I_W_2 = InlineKeyboardMarkup().add(
-    InlineKeyboardButton("1", url="PASTE"),
-    InlineKeyboardButton("2", url="PASTE"),
-    InlineKeyboardButton("3", url="PASTE"))
-I_W_2 = InlineKeyboardMarkup().add(
-    InlineKeyboardButton("1", url="PASTE"),
-    InlineKeyboardButton("2", url="PASTE"),
-    InlineKeyboardButton("3", url="PASTE"))
-I_W_2 = InlineKeyboardMarkup().add(
-    InlineKeyboardButton("1", url="PASTE"),
-    InlineKeyboardButton("2", url="PASTE"),
-    InlineKeyboardButton("3", url="PASTE"))
+I_Y_2 = InlineKeyboardMarkup().add(
+    InlineKeyboardButton("1", url="https://t.me/+yxYMqxV1iGI2NzA1"),
+    InlineKeyboardButton("2", url="https://t.me/+KTiSMTy3G-0wNDll"),
+    InlineKeyboardButton("3", url="https://t.me/+n-98PT8PeJBhMDc1"))
+I_Y_3 = InlineKeyboardMarkup().add(
+    InlineKeyboardButton("1", url="https://t.me/+cc2hsfXDGHBmMDI1"),
+    InlineKeyboardButton("2", url="https://t.me/+2uhvGpwE6JoyNzQ9"),
+    InlineKeyboardButton("3", url="https://t.me/+6K_YrHsW5NkyZjBl"))
+I_Y_4 = InlineKeyboardMarkup().add(
+    InlineKeyboardButton("1", url="https://t.me/+CpnO3KGdPkw3Y2Rl"),
+    InlineKeyboardButton("2", url="https://t.me/+uKgQWRovGWowNjI1"),
+    InlineKeyboardButton("3", url="https://t.me/+Mby8qGn_VvQ5Yzc1"))
+I_Y_5 = InlineKeyboardMarkup().add(
+    InlineKeyboardButton("1", url="https://t.me/+gTxUWiIAgec4YjRl"),
+    InlineKeyboardButton("2", url="https://t.me/+aFHBtorPhX4yYjQ9"),
+    InlineKeyboardButton("3", url="https://t.me/+qyLMTzxmqjZkZjJl"))
+I_Y_6 = InlineKeyboardMarkup().add(
+    InlineKeyboardButton("1", url="https://t.me/+JgMMQjXwXDMyYzE1"),
+    InlineKeyboardButton("2", url="https://t.me/+lcZHShID4Xg4MmQ1"),
+    InlineKeyboardButton("3", url="https://t.me/+VJ_2EGEkH6E4MzRl"))
+I_Y_7 = InlineKeyboardMarkup().add(
+    InlineKeyboardButton("1", url="https://t.me/+UUz0BvVsZThhZGE9"),
+    InlineKeyboardButton("2", url="https://t.me/+4Y-4dqSV8YswMzY9"),
+    InlineKeyboardButton("3", url="https://t.me/+1is3Mu6wua9jYTM1"))
+I_Y_8 = InlineKeyboardMarkup().add(
+    InlineKeyboardButton("1", url="https://t.me/+VA2f-H1MWx1iMDY1"),
+    InlineKeyboardButton("2", url="https://t.me/+bR0gsYt1b9k5NTI1"),
+    InlineKeyboardButton("3", url="https://t.me/+NexANzqLKz5kYmZl"))
+I_Y_9 = InlineKeyboardMarkup().add(
+    InlineKeyboardButton("1", url="https://t.me/+7ww5vFml-A5mNTU1"))
+
+
+
+
 I_W_2 = InlineKeyboardMarkup().add(
     InlineKeyboardButton("1", url="PASTE"),
     InlineKeyboardButton("2", url="PASTE"),
