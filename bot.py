@@ -538,6 +538,34 @@ async def MENU_V(m:Message):
 
 
 ###########################################
+#               M E N U - W               #
+###########################################
+@aio.message_handler(lambda message : message.text == 'ᴡ',state='*')
+async def MENU_W(m:Message):
+    W1 = await bot.send_message(m.chat.id, text=message.M_J_1, reply_markup=inline.K_END)
+    W2 = await bot.send_photo(m.chat.id, photo="https://telegra.ph/file/45cbf3c15895f609b26e9.jpg", caption=message.M_J_2, parse_mode="html", reply_markup=inline.I_J_2)
+    W3 = await bot.send_photo(m.chat.id, photo="https://telegra.ph/file/a8c95f1ea57f26e41c059.jpg", caption=message.M_J_3, parse_mode="html", reply_markup=inline.I_J_3)
+    W4 = await bot.send_photo(m.chat.id, photo="https://telegra.ph/file/f167f22e0f9a78b9c64a5.jpg", caption=message.M_J_4, parse_mode="html", reply_markup=inline.I_J_4)
+    W5 = await bot.send_photo(m.chat.id, photo="https://telegra.ph/file/78781d6f29f97dcdc79bc.jpg", caption=message.M_J_5, parse_mode="html", reply_markup=inline.I_J_5)
+    await asyncio.sleep(300)
+    await m.delete()
+    await J1.delete()
+    await J2.delete()
+    await J3.delete()
+    await J4.delete()
+    await J5.delete()
+    await J6.delete()
+    await J7.delete()
+    await J8.delete()
+    await J9.delete()
+    await J10.delete()
+
+
+
+
+
+
+###########################################
 #               M E N U - J               #
 ###########################################
 @aio.message_handler(lambda message : message.text == 'ᴊ',state='*')
