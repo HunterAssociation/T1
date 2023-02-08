@@ -177,7 +177,7 @@ M_W_5 = "<b>1 ➽ Wizard Girl Ambitious</b>"
 
 
 M_X_1 = "➥ 𝙼𝚎𝚗𝚞 𝚇 - 𝙿𝚊𝚐𝚎 𝟷"
-M_X_2 = "<b>1 ➽ XL Joushi<b>"
+M_X_2 = "<b>1 ➽ XL Joushi</b>"
 
 
 
