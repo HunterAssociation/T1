@@ -160,3 +160,8 @@ M_U_2 = "<b>1 ➽ Uba\n\n2 ➽ Uchi no Otouto Maji de Dekain Dakedo Mi ni Konai?
 M_U_3 = "<b>1 ➽ Uhou Renka\n\n2 ➽ Unsweet: Netorare Ochita Onna-tachi\n\n3 ➽ Ura Jutaijima</b>"
 M_U_4 = "<b>1 ➽ Usamimi Bouken-tan: Sekuhara Shinagara Sekai o Sukue\n\n2 ➽ Ushichichi Tabehoudai! The Animation\n\n3 ➽ Uwaki to Honki The Animation</b>"
 
+
+
+M_V_1 = "➥ 𝙼𝚎𝚗𝚞 𝚅 - 𝙿𝚊𝚐𝚎 𝟷"
+M_V_2 = "<b>1 ➽ Valkyrie Choukyou Semen Tank no Ikusa Otome 10-nin Shimai\n\n2 ➽ Valkyrie Hazard\n\n3 ➽ Vampire</b>"
+M_V_3 = "<b>1 ➽ Venus Blood: Brave\n\n2 ➽ Victorian Maid Maria no Houshi\n\n3 ➽ Viper GTS</b>"
