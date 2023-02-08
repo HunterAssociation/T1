@@ -165,3 +165,16 @@ M_U_4 = "<b>1 ➽ Usamimi Bouken-tan: Sekuhara Shinagara Sekai o Sukue\n\n2 ➽ 
 M_V_1 = "➥ 𝙼𝚎𝚗𝚞 𝚅 - 𝙿𝚊𝚐𝚎 𝟷"
 M_V_2 = "<b>1 ➽ Valkyrie Choukyou Semen Tank no Ikusa Otome 10-nin Shimai\n\n2 ➽ Valkyrie Hazard\n\n3 ➽ Vampire</b>"
 M_V_3 = "<b>1 ➽ Venus Blood: Brave\n\n2 ➽ Victorian Maid Maria no Houshi\n\n3 ➽ Viper GTS</b>"
+
+
+
+M_W_1 = "➥ 𝙼𝚎𝚗𝚞 𝚆 - 𝙿𝚊𝚐𝚎 𝟷"
+M_W_2 = "<b>1 ➽ Wagaya no Liliana-san The Animation\n\n2 ➽ Waisetsu Missile The Animation\n\n3 ➽ Wana: Hakudaku Mamire no Houkago</b>"
+M_W_3 = "<b>1 ➽ Wanna. SpartanSex Spermax!!\n\n2 ➽ Watashi ga Toriko ni Natte Yaru\n\n3 ➽ Watashi no Shiranai Mesu no Kao</b>"
+M_W_4 = "<b>1 ➽ Watashi wa, Kairaku Izonshou\n\n2 ➽ WAVER [Behind Closed Doors]\n\n3 ➽ White Blue</b>"
+M_W_5 = "<b>1 ➽ Wizard Girl Ambitious</b>"
+
+
+
+M_X_1 = "➥ 𝙼𝚎𝚗𝚞 𝚇 - 𝙿𝚊𝚐𝚎 𝟷"
+M_X_2 = "<b>1 ➽ XL Joushi<b>"
