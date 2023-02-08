@@ -519,6 +519,25 @@ async def MENU_U(m:Message):
 
 
 ###########################################
+#               M E N U - V               #
+###########################################
+@aio.message_handler(lambda message : message.text == 'ᴠ',state='*')
+async def MENU_V(m:Message):
+    V1 = await bot.send_message(m.chat.id, text=message.M_V_1, reply_markup=inline.K_END)
+    V2 = await bot.send_photo(m.chat.id, photo="https://telegra.ph/file/7687a2c8f1cb5c6d6e756.jpg", caption=message.M_V_2, parse_mode="html", reply_markup=inline.I_V_2)
+    V3 = await bot.send_photo(m.chat.id, photo="https://telegra.ph/file/d83d07d725267f2ae6bd4.jpg", caption=message.M_V_3, parse_mode="html", reply_markup=inline.I_V_3)
+    await asyncio.sleep(300)
+    await m.delete()
+    await V1.delete()
+    await V2.delete()
+    await V3.delete()
+
+
+
+
+
+
+###########################################
 #               M E N U - J               #
 ###########################################
 @aio.message_handler(lambda message : message.text == 'ᴊ',state='*')
