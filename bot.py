@@ -498,6 +498,27 @@ async def MENU_P(m:Message):
 
 
 ###########################################
+#               M E N U - U               #
+###########################################
+@aio.message_handler(lambda message : message.text == 'ᴜ',state='*')
+async def MENU_U(m:Message):
+    U1 = await bot.send_message(m.chat.id, text=message.M_U_1, reply_markup=inline.K_END)
+    U2 = await bot.send_photo(m.chat.id, photo="https://telegra.ph/file/a0f87bbcf8ce50795bcbc.jpg", caption=message.M_U_2, parse_mode="html", reply_markup=inline.I_U_2)
+    U3 = await bot.send_photo(m.chat.id, photo="https://telegra.ph/file/49b32d02c9ebd4d3a5410.jpg", caption=message.M_U_3, parse_mode="html", reply_markup=inline.I_U_3)
+    U4 = await bot.send_photo(m.chat.id, photo="https://telegra.ph/file/d909686a1c6359d908b39.jpg", caption=message.M_U_4, parse_mode="html", reply_markup=inline.I_U_4)
+    await asyncio.sleep(300)
+    await m.delete()
+    await U1.delete()
+    await U2.delete()
+    await U3.delete()
+    await U4.delete()
+
+
+
+
+
+
+###########################################
 #               M E N U - J               #
 ###########################################
 @aio.message_handler(lambda message : message.text == 'ᴊ',state='*')
@@ -524,6 +545,7 @@ async def MENU_J(m:Message):
     await J8.delete()
     await J9.delete()
     await J10.delete()
+
     
 
 
