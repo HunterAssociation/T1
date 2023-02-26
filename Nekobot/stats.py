@@ -9,9 +9,6 @@ from bot import AUTH_USERS
 # ------------------------------- Statistics --------------------------------- #
 @Client.on_message(filters.private & filters.command('stats'))
 async def subscribers_count(bot, m: Message):
-    id = m.from_user.id
-    if id not in AUTH_USERS:
-        return
     msg = await m.reply_text("<code>Processing...</code>")
     messages = await users_info(bot)
     active = messages[0]
